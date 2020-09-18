@@ -4,7 +4,6 @@ title: Glossary
 nav_order: 8
 ---
 # Glossary
-**Bash** –
 
 **Clone (command)** –
 
@@ -20,7 +19,7 @@ nav_order: 8
 
 **Jekyll** – [Jekyll](https://jekyllrb.com/) is a static site generator used for creating a variety of online content.
 
-**Markdown** – 
+**Markdown** –
 
 **Pull (command)** –
 
