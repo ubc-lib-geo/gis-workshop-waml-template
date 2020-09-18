@@ -2,259 +2,259 @@
     "doc": "Acknowledgements",
     "title": "Acknowledgements",
     "content": " ",
-    "url": "http://localhost:4000/content/acknowledgements.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/acknowledgements.html",
     "relUrl": "/content/acknowledgements.html"
   },"1": {
     "doc": "ArcGIS Online",
     "title": "Embedding an ArcGIS Online map",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/agol-embed.html#embedding-an-arcgis-online-map",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/agol-embed.html#embedding-an-arcgis-online-map",
     "relUrl": "/content/examples/agol-embed.html#embedding-an-arcgis-online-map"
   },"2": {
     "doc": "ArcGIS Online",
     "title": "Embedding a StoryMap",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/agol-embed.html#embedding-a-storymap",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/agol-embed.html#embedding-a-storymap",
     "relUrl": "/content/examples/agol-embed.html#embedding-a-storymap"
   },"3": {
     "doc": "ArcGIS Online",
     "title": "ArcGIS Online",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/agol-embed.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/agol-embed.html",
     "relUrl": "/content/examples/agol-embed.html"
   },"4": {
     "doc": "Digital Collections",
     "title": "Embedding from your digital collections",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/digital-collections.html#embedding-from-your-digital-collections",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/digital-collections.html#embedding-from-your-digital-collections",
     "relUrl": "/content/examples/digital-collections.html#embedding-from-your-digital-collections"
   },"5": {
     "doc": "Digital Collections",
     "title": "Digital Collections",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/digital-collections.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/digital-collections.html",
     "relUrl": "/content/examples/digital-collections.html"
   },"6": {
     "doc": "Data Downloads",
     "title": "Linking your data for download",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/download-data.html#linking-your-data-for-download",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/download-data.html#linking-your-data-for-download",
     "relUrl": "/content/examples/download-data.html#linking-your-data-for-download"
   },"7": {
     "doc": "Data Downloads",
     "title": "Adding a .pdf",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/download-data.html#adding-a-pdf",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/download-data.html#adding-a-pdf",
     "relUrl": "/content/examples/download-data.html#adding-a-pdf"
   },"8": {
     "doc": "Data Downloads",
     "title": "Data Downloads",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/download-data.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/download-data.html",
     "relUrl": "/content/examples/download-data.html"
   },"9": {
     "doc": "Example Pages",
     "title": "Example pages",
     "content": " ",
-    "url": "http://localhost:4000/content/examples.html#example-pages",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples.html#example-pages",
     "relUrl": "/content/examples.html#example-pages"
   },"10": {
     "doc": "Example Pages",
     "title": "Example Pages",
     "content": " ",
-    "url": "http://localhost:4000/content/examples.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples.html",
     "relUrl": "/content/examples.html"
   },"11": {
     "doc": "Glossary",
     "title": "Glossary",
-    "content": "Bash – . Clone (command) – . Command line – . Commit (command) – . Fork (command) – . Git – . GitHub or GitHub.com – . Jekyll – Jekyll is a static site generator used for creating a variety of online content. Markdown – . Pull (command) – . Pull Request – . Push (command) – . Ruby – Ruby is an open-source programming language, and is used as a framework for Jekyll. Terminal – . ",
-    "url": "http://localhost:4000/content/glossary.html",
+    "content": "Clone (command) – . Command line – . Commit (command) – . Fork (command) – . Git – . GitHub or GitHub.com – . Jekyll – Jekyll is a static site generator used for creating a variety of online content. Markdown – . Pull (command) – . Pull Request – . Push (command) – . Ruby – Ruby is an open-source programming language, and is used as a framework for Jekyll. Terminal – . ",
+    "url": "http://localhost:4000/gis-workshop-waml/content/glossary.html",
     "relUrl": "/content/glossary.html"
   },"12": {
     "doc": "Images",
     "title": "Adding images to your page",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/images.html#adding-images-to-your-page",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/images.html#adding-images-to-your-page",
     "relUrl": "/content/examples/images.html#adding-images-to-your-page"
   },"13": {
     "doc": "Images",
     "title": "Images",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/images.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/images.html",
     "relUrl": "/content/examples/images.html"
   },"14": {
     "doc": "Home",
     "title": "A Jekyll template for GIS workshops",
     "content": " ",
-    "url": "http://localhost:4000/#a-jekyll-template-for-gis-workshops",
+    "url": "http://localhost:4000/gis-workshop-waml/#a-jekyll-template-for-gis-workshops",
     "relUrl": "/#a-jekyll-template-for-gis-workshops"
   },"15": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
-    "url": "http://localhost:4000/",
+    "url": "http://localhost:4000/gis-workshop-waml/",
     "relUrl": "/"
   },"16": {
     "doc": "The Kitchen Sink",
     "title": "The kitchen sink",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/kitchen-sink.html#the-kitchen-sink",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/kitchen-sink.html#the-kitchen-sink",
     "relUrl": "/content/examples/kitchen-sink.html#the-kitchen-sink"
   },"17": {
     "doc": "The Kitchen Sink",
     "title": "The Kitchen Sink",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/kitchen-sink.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/kitchen-sink.html",
     "relUrl": "/content/examples/kitchen-sink.html"
   },"18": {
     "doc": "Land Acknowledgement",
     "title": "Land Acknowledgement",
     "content": " ",
-    "url": "http://localhost:4000/content/land-acknowledgement.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/land-acknowledgement.html",
     "relUrl": "/content/land-acknowledgement.html"
   },"19": {
     "doc": "Next Steps",
     "title": "Next steps for learning more",
     "content": " ",
-    "url": "http://localhost:4000/content/next-steps.html#next-steps-for-learning-more",
+    "url": "http://localhost:4000/gis-workshop-waml/content/next-steps.html#next-steps-for-learning-more",
     "relUrl": "/content/next-steps.html#next-steps-for-learning-more"
   },"20": {
     "doc": "Next Steps",
     "title": "Next Steps",
     "content": " ",
-    "url": "http://localhost:4000/content/next-steps.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/next-steps.html",
     "relUrl": "/content/next-steps.html"
   },"21": {
     "doc": "Web Maps",
     "title": "Adding an OpenIndexMap web map",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/openindexmap.html#adding-an-openindexmap-web-map",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/openindexmap.html#adding-an-openindexmap-web-map",
     "relUrl": "/content/examples/openindexmap.html#adding-an-openindexmap-web-map"
   },"22": {
     "doc": "Web Maps",
     "title": "Web Maps",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/openindexmap.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/openindexmap.html",
     "relUrl": "/content/examples/openindexmap.html"
   },"23": {
     "doc": "Participating Online",
     "title": "Participating online",
     "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
-    "url": "http://localhost:4000/content/participating-online.html#participating-online",
+    "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#participating-online",
     "relUrl": "/content/participating-online.html#participating-online"
   },"24": {
     "doc": "Participating Online",
     "title": "Participants window",
     "content": "The Participants window lists everyone in the session. Click the icons at the bottom of the window to communicate with the instructors. Clicking an icon makes it appear next to your name in the participants list. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
-    "url": "http://localhost:4000/content/participating-online.html#participants-window",
+    "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#participants-window",
     "relUrl": "/content/participating-online.html#participants-window"
   },"25": {
     "doc": "Participating Online",
     "title": "Chat window",
     "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
-    "url": "http://localhost:4000/content/participating-online.html#chat-window",
+    "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#chat-window",
     "relUrl": "/content/participating-online.html#chat-window"
   },"26": {
     "doc": "Participating Online",
     "title": "Share your screen",
     "content": "In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share. ",
-    "url": "http://localhost:4000/content/participating-online.html#share-your-screen",
+    "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#share-your-screen",
     "relUrl": "/content/participating-online.html#share-your-screen"
   },"27": {
     "doc": "Participating Online",
     "title": "Contribute to the Whiteboard",
     "content": "The Whiteboard is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click View options and select Annotate. This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room. ",
-    "url": "http://localhost:4000/content/participating-online.html#contribute-to-the-whiteboard",
+    "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#contribute-to-the-whiteboard",
     "relUrl": "/content/participating-online.html#contribute-to-the-whiteboard"
   },"28": {
     "doc": "Participating Online",
     "title": "Participating Online",
     "content": " ",
-    "url": "http://localhost:4000/content/participating-online.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html",
     "relUrl": "/content/participating-online.html"
   },"29": {
     "doc": "Adding Slides",
     "title": "Adding presentation slides",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/slides.html#adding-presentation-slides",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html#adding-presentation-slides",
     "relUrl": "/content/examples/slides.html#adding-presentation-slides"
   },"30": {
     "doc": "Adding Slides",
     "title": "Reveal.js slides",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/slides.html#revealjs-slides",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html#revealjs-slides",
     "relUrl": "/content/examples/slides.html#revealjs-slides"
   },"31": {
     "doc": "Adding Slides",
     "title": "Google slides",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/slides.html#google-slides",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html#google-slides",
     "relUrl": "/content/examples/slides.html#google-slides"
   },"32": {
     "doc": "Adding Slides",
     "title": "PowerPoint",
     "content": "I think you might be able to add your slides as a published slide deck using this method – https://support.microsoft.com/en-us/office/publish-your-presentation-to-the-web-558ae647-9919-4571-86a0-9a4a1ea48938 – Could add slides to the slide folder the same way we do with Reveal? . ",
-    "url": "http://localhost:4000/content/examples/slides.html#powerpoint",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html#powerpoint",
     "relUrl": "/content/examples/slides.html#powerpoint"
   },"33": {
     "doc": "Adding Slides",
     "title": "Adding Slides",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/slides.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html",
     "relUrl": "/content/examples/slides.html"
   },"34": {
     "doc": "Step-by-Step Instruction",
     "title": "Step-by-step instruction",
     "content": "Step-by-step instructions . Step 1 {: .label .label-step} Do this thing {: .step} Step 2 {: .label .label-step} Do this other thing {: .step} . Step 1 . Do this thing . Step 2 . Do this other thing . Circled numbers . This synax… . *1*{: .circle .circle-blue} Number in normal text . …will look like this: . 1 Number in normal text . You can also use this in headers, lists and other markdown suported elements, e.g., . * *1*{: .circle .circle-blue} `.circle-blue` * *2*{: .circle .circle-red} `.circle-red` * *3*{: .circle .circle-yellow} `.circle-yellow` * *4*{: .circle .circle-green} `.circle-green` * *5*{: .circle .circle-purple} `.circle-purple` ## *2*{: .circle .circle-red} Number in h2 ### *10*{: .circle .circle-yellow} Number in h3 . …will look like this: . | 1 .circle-blue | 2 .circle-red | 3 .circle-yellow | 4 .circle-green | 5 .circle-purple | . ",
-    "url": "http://localhost:4000/content/examples/step-by-step.html#step-by-step-instruction",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/step-by-step.html#step-by-step-instruction",
     "relUrl": "/content/examples/step-by-step.html#step-by-step-instruction"
   },"35": {
     "doc": "Step-by-Step Instruction",
     "title": "2 Number in h2",
     "content": "10 Number in h3 . ",
-    "url": "http://localhost:4000/content/examples/step-by-step.html#2-number-in-h2",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/step-by-step.html#2-number-in-h2",
     "relUrl": "/content/examples/step-by-step.html#2-number-in-h2"
   },"36": {
     "doc": "Step-by-Step Instruction",
     "title": "Step-by-Step Instruction",
     "content": " ",
-    "url": "http://localhost:4000/content/examples/step-by-step.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/examples/step-by-step.html",
     "relUrl": "/content/examples/step-by-step.html"
   },"37": {
     "doc": "UI Features",
     "title": "UI features",
     "content": " ",
-    "url": "http://localhost:4000/content/ui-features.html#ui-features",
+    "url": "http://localhost:4000/gis-workshop-waml/content/ui-features.html#ui-features",
     "relUrl": "/content/ui-features.html#ui-features"
   },"38": {
     "doc": "UI Features",
     "title": "Selected text formatting options",
     "content": "Below are selected formatting options that may be useful in in RC worskhop sites. Notes . Use this syntax… . Wash your hands frequently {: .note} . … to include a note that will look like this on the workshop website: . Wash your hands frequently . Warning . Don't step on the snails! {: .warn} . Don’t step on the snails! . Danger . Snails armed and dangerous {: .danger} . Snails armed and dangerous . Prerequisites. This synax… . - Basic slug identification - Comfortable in the woods {: .prereq} . …will look like this: . Something else here . | Basic slug identification | Comfortable in the woods | . Terminal input. Use this formatting to indicate that the participant should input text into the terminal or command line. This… . Input {: .label .label-green } ``` $ git status ``` . … will appear like this in the workshop website: . Input . $ git status . Terminal output. Shows the output resulting from an action. This syntax… . Output {: .label .label-yellow } ``` On branch master Your branch is up-to-date with 'origin/master'. nothing to commit, working tree clean ``` . …looks like this on the site: . Output . On branch master Your branch is up-to-date with 'origin/master'. nothing to commit, working tree clean . Dropdowns . To create hidden content in a dropdown use this: . &lt;details&gt; &lt;summary&gt;This is the dropdown title&lt;/summary&gt; &lt;br&gt; This is the hidden dropdown content. &lt;/details&gt; . If you want it open by default: . &lt;details open&gt; &lt;summary&gt;This is the dropdown title&lt;/summary&gt; &lt;br&gt; This is the dropdown content that you can hide if you want to. &lt;/details&gt; . ",
-    "url": "http://localhost:4000/content/ui-features.html#selected-text-formatting-options",
+    "url": "http://localhost:4000/gis-workshop-waml/content/ui-features.html#selected-text-formatting-options",
     "relUrl": "/content/ui-features.html#selected-text-formatting-options"
   },"39": {
     "doc": "UI Features",
     "title": "UI Features",
     "content": " ",
-    "url": "http://localhost:4000/content/ui-features.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/ui-features.html",
     "relUrl": "/content/ui-features.html"
   },"40": {
     "doc": "WAML 2020",
     "title": "WAML 2020!",
     "content": "Welcome to WAML2020! . Intro stuff . [slides on this page?] . ",
-    "url": "http://localhost:4000/content/waml-2020.html#waml-2020",
+    "url": "http://localhost:4000/gis-workshop-waml/content/waml-2020.html#waml-2020",
     "relUrl": "/content/waml-2020.html#waml-2020"
   },"41": {
     "doc": "WAML 2020",
     "title": "Example GIS workshops with GitHub Jekyll",
     "content": "Understanding Spatial Data: Map Projections . ",
-    "url": "http://localhost:4000/content/waml-2020.html#example-gis-workshops-with-github-jekyll",
+    "url": "http://localhost:4000/gis-workshop-waml/content/waml-2020.html#example-gis-workshops-with-github-jekyll",
     "relUrl": "/content/waml-2020.html#example-gis-workshops-with-github-jekyll"
   },"42": {
     "doc": "WAML 2020",
     "title": "WAML 2020",
     "content": " ",
-    "url": "http://localhost:4000/content/waml-2020.html",
+    "url": "http://localhost:4000/gis-workshop-waml/content/waml-2020.html",
     "relUrl": "/content/waml-2020.html"
   }
 }
