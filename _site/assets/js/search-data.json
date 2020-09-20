@@ -108,153 +108,141 @@
     "relUrl": "/content/examples/kitchen-sink.html"
   },"18": {
     "doc": "Land Acknowledgement",
+    "title": "Land acknowledgement",
+    "content": "Before beginning the workshop, we’d like to acknowledge the indigenous lands where we are located. Evan is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam) people. Phil is located on the territories of the Ute, Cheyenne, and Arapahoe peoples, and would like to further acknowledge that 48 contemporary tribal nations are historically tied to the lands that make up Colorado. Since all of you are spread around the continent, let’s take a moment to explore native-lands.ca so that you can visualize the indigenous territories, languages, and treaties in your area. ",
+    "url": "http://localhost:4000/gis-workshop-waml/content/land-acknowledgement.html#land-acknowledgement",
+    "relUrl": "/content/land-acknowledgement.html#land-acknowledgement"
+  },"19": {
+    "doc": "Land Acknowledgement",
     "title": "Land Acknowledgement",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/land-acknowledgement.html",
     "relUrl": "/content/land-acknowledgement.html"
-  },"19": {
+  },"20": {
     "doc": "Next Steps",
     "title": "Next steps for learning more",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/next-steps.html#next-steps-for-learning-more",
     "relUrl": "/content/next-steps.html#next-steps-for-learning-more"
-  },"20": {
+  },"21": {
     "doc": "Next Steps",
     "title": "Next Steps",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/next-steps.html",
     "relUrl": "/content/next-steps.html"
-  },"21": {
+  },"22": {
     "doc": "Web Maps",
     "title": "Adding an OpenIndexMap web map",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/openindexmap.html#adding-an-openindexmap-web-map",
     "relUrl": "/content/examples/openindexmap.html#adding-an-openindexmap-web-map"
-  },"22": {
+  },"23": {
     "doc": "Web Maps",
     "title": "Web Maps",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/openindexmap.html",
     "relUrl": "/content/examples/openindexmap.html"
-  },"23": {
+  },"24": {
     "doc": "Participating Online",
     "title": "Participating online",
     "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
     "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#participating-online",
     "relUrl": "/content/participating-online.html#participating-online"
-  },"24": {
+  },"25": {
     "doc": "Participating Online",
     "title": "Participants window",
     "content": "The Participants window lists everyone in the session. Click the icons at the bottom of the window to communicate with the instructors. Clicking an icon makes it appear next to your name in the participants list. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
     "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#participants-window",
     "relUrl": "/content/participating-online.html#participants-window"
-  },"25": {
+  },"26": {
     "doc": "Participating Online",
     "title": "Chat window",
     "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
     "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#chat-window",
     "relUrl": "/content/participating-online.html#chat-window"
-  },"26": {
+  },"27": {
     "doc": "Participating Online",
     "title": "Share your screen",
     "content": "In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share. ",
     "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#share-your-screen",
     "relUrl": "/content/participating-online.html#share-your-screen"
-  },"27": {
+  },"28": {
     "doc": "Participating Online",
     "title": "Contribute to the Whiteboard",
     "content": "The Whiteboard is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click View options and select Annotate. This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room. ",
     "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html#contribute-to-the-whiteboard",
     "relUrl": "/content/participating-online.html#contribute-to-the-whiteboard"
-  },"28": {
+  },"29": {
     "doc": "Participating Online",
     "title": "Participating Online",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/participating-online.html",
     "relUrl": "/content/participating-online.html"
-  },"29": {
+  },"30": {
     "doc": "Adding Slides",
     "title": "Adding presentation slides",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html#adding-presentation-slides",
     "relUrl": "/content/examples/slides.html#adding-presentation-slides"
-  },"30": {
+  },"31": {
     "doc": "Adding Slides",
     "title": "Reveal.js slides",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html#revealjs-slides",
     "relUrl": "/content/examples/slides.html#revealjs-slides"
-  },"31": {
+  },"32": {
     "doc": "Adding Slides",
     "title": "Google slides",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html#google-slides",
     "relUrl": "/content/examples/slides.html#google-slides"
-  },"32": {
+  },"33": {
     "doc": "Adding Slides",
     "title": "PowerPoint",
     "content": "I think you might be able to add your slides as a published slide deck using this method – https://support.microsoft.com/en-us/office/publish-your-presentation-to-the-web-558ae647-9919-4571-86a0-9a4a1ea48938 – Could add slides to the slide folder the same way we do with Reveal? . ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html#powerpoint",
     "relUrl": "/content/examples/slides.html#powerpoint"
-  },"33": {
+  },"34": {
     "doc": "Adding Slides",
     "title": "Adding Slides",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/slides.html",
     "relUrl": "/content/examples/slides.html"
-  },"34": {
+  },"35": {
     "doc": "Step-by-Step Instruction",
     "title": "Step-by-step instruction",
     "content": "Step-by-step instructions . Step 1 {: .label .label-step} Do this thing {: .step} Step 2 {: .label .label-step} Do this other thing {: .step} . Step 1 . Do this thing . Step 2 . Do this other thing . Circled numbers . This synax… . *1*{: .circle .circle-blue} Number in normal text . …will look like this: . 1 Number in normal text . You can also use this in headers, lists and other markdown suported elements, e.g., . * *1*{: .circle .circle-blue} `.circle-blue` * *2*{: .circle .circle-red} `.circle-red` * *3*{: .circle .circle-yellow} `.circle-yellow` * *4*{: .circle .circle-green} `.circle-green` * *5*{: .circle .circle-purple} `.circle-purple` ## *2*{: .circle .circle-red} Number in h2 ### *10*{: .circle .circle-yellow} Number in h3 . …will look like this: . | 1 .circle-blue | 2 .circle-red | 3 .circle-yellow | 4 .circle-green | 5 .circle-purple | . ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/step-by-step.html#step-by-step-instruction",
     "relUrl": "/content/examples/step-by-step.html#step-by-step-instruction"
-  },"35": {
+  },"36": {
     "doc": "Step-by-Step Instruction",
     "title": "2 Number in h2",
     "content": "10 Number in h3 . ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/step-by-step.html#2-number-in-h2",
     "relUrl": "/content/examples/step-by-step.html#2-number-in-h2"
-  },"36": {
+  },"37": {
     "doc": "Step-by-Step Instruction",
     "title": "Step-by-Step Instruction",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/examples/step-by-step.html",
     "relUrl": "/content/examples/step-by-step.html"
-  },"37": {
+  },"38": {
     "doc": "UI Features",
     "title": "UI features",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/ui-features.html#ui-features",
     "relUrl": "/content/ui-features.html#ui-features"
-  },"38": {
+  },"39": {
     "doc": "UI Features",
     "title": "Selected text formatting options",
-    "content": "Below are selected formatting options that may be useful in in RC worskhop sites. Notes . Use this syntax… . Wash your hands frequently {: .note} . … to include a note that will look like this on the workshop website: . Wash your hands frequently . Warning . Don't step on the snails! {: .warn} . Don’t step on the snails! . Danger . Snails armed and dangerous {: .danger} . Snails armed and dangerous . Prerequisites. This synax… . - Basic slug identification - Comfortable in the woods {: .prereq} . …will look like this: . Something else here . | Basic slug identification | Comfortable in the woods | . Terminal input. Use this formatting to indicate that the participant should input text into the terminal or command line. This… . Input {: .label .label-green } ``` $ git status ``` . … will appear like this in the workshop website: . Input . $ git status . Terminal output. Shows the output resulting from an action. This syntax… . Output {: .label .label-yellow } ``` On branch master Your branch is up-to-date with 'origin/master'. nothing to commit, working tree clean ``` . …looks like this on the site: . Output . On branch master Your branch is up-to-date with 'origin/master'. nothing to commit, working tree clean . Dropdowns . To create hidden content in a dropdown use this: . &lt;details&gt; &lt;summary&gt;This is the dropdown title&lt;/summary&gt; &lt;br&gt; This is the hidden dropdown content. &lt;/details&gt; . If you want it open by default: . &lt;details open&gt; &lt;summary&gt;This is the dropdown title&lt;/summary&gt; &lt;br&gt; This is the dropdown content that you can hide if you want to. &lt;/details&gt; . ",
+    "content": "Below are selected formatting options that may be useful in in RC worskhop sites. Notes . Use this syntax… . Wash your hands frequently {: .note} . … to include a note that will look like this on the workshop website: . Wash your hands frequently . Warning . Don't step on the snails! {: .warn} . Don’t step on the snails! . Danger . Snails armed and dangerous {: .danger} . Snails armed and dangerous . Prerequisites. This synax… . - Basic slug identification - Comfortable in the woods {: .prereq} . …will look like this: . Something else here . | Basic slug identification | Comfortable in the woods | . Terminal input. Use this formatting to indicate that the participant should input text into the terminal or command line. This… . Input {: .label .label-green } ``` $ git status ``` . … will appear like this in the workshop website: . Input . $ git status . Terminal output. Shows the output resulting from an action. This syntax… . Output {: .label .label-yellow } ``` On branch master Your branch is up-to-date with 'origin/master'. nothing to commit, working tree clean ``` . …looks like this on the site: . Output . On branch master Your branch is up-to-date with 'origin/master'. nothing to commit, working tree clean . Dropdowns . You can use dropdowns to hide answers to questions. For example: . Who was the first U.S. president? George Washington. To create hidden content in a dropdown use this: . &lt;details&gt; &lt;summary&gt;This is the dropdown title&lt;/summary&gt; &lt;br&gt; This is the hidden dropdown content. &lt;/details&gt; . If you want it open by default: . &lt;details open&gt; &lt;summary&gt;This is the dropdown title&lt;/summary&gt; &lt;br&gt; This is the dropdown content that you can hide if you want to. &lt;/details&gt; . ",
     "url": "http://localhost:4000/gis-workshop-waml/content/ui-features.html#selected-text-formatting-options",
     "relUrl": "/content/ui-features.html#selected-text-formatting-options"
-  },"39": {
+  },"40": {
     "doc": "UI Features",
     "title": "UI Features",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml/content/ui-features.html",
     "relUrl": "/content/ui-features.html"
-  },"40": {
-    "doc": "WAML 2020",
-    "title": "WAML 2020!",
-    "content": "Welcome to WAML2020! . Intro stuff . [slides on this page?] . ",
-    "url": "http://localhost:4000/gis-workshop-waml/content/waml-2020.html#waml-2020",
-    "relUrl": "/content/waml-2020.html#waml-2020"
-  },"41": {
-    "doc": "WAML 2020",
-    "title": "Example GIS workshops with GitHub Jekyll",
-    "content": "Understanding Spatial Data: Map Projections . ",
-    "url": "http://localhost:4000/gis-workshop-waml/content/waml-2020.html#example-gis-workshops-with-github-jekyll",
-    "relUrl": "/content/waml-2020.html#example-gis-workshops-with-github-jekyll"
-  },"42": {
-    "doc": "WAML 2020",
-    "title": "WAML 2020",
-    "content": " ",
-    "url": "http://localhost:4000/gis-workshop-waml/content/waml-2020.html",
-    "relUrl": "/content/waml-2020.html"
   }
 }

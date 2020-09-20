@@ -100,6 +100,14 @@ nothing to commit, working tree clean
 
 __Dropdowns__
 
+You can use dropdowns to hide answers to questions. For example:
+
+<details>
+<summary>Who was the first U.S. president?</summary>
+<br>
+George Washington.
+</details>
+
 To create hidden content in a dropdown use this:
 
 ~~~
