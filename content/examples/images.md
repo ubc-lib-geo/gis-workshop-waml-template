@@ -28,7 +28,8 @@ You can also add images "reference style." This is handy if you don't want to cl
 ![Point Sublime][Sublime]
 
 Nice job!
-___
+___  
+
 **Add an image from your directory:**
 
 You can also add images from a file directory. If you're using GitHub Pages, that means you would want a folder where your content or images live in your GitHub repository. The syntax is the same, except replace the link with the path to the image:
@@ -36,16 +37,21 @@ You can also add images from a file directory. If you're using GitHub Pages, tha
 `![Fancy WAML Logo](../img/WAML_sticker_stylized_serif.png)`
 ![Fancy WAML Logo](../img/WAML_sticker_stylized_serif.png)
 Sweet!
+
 ___
+
 **Add a different format:**
 
 Want to put a gif in there? No problem!
 
+`![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif)`
 ![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif)
 _Note: "gif" is pronounced with a hard "g"_
+
 ___
 
 **Link an image:**
+
 To link an image, you just need to put the embed the image syntax within the syntax for a hyperlink:
 
 Here's a regular link:
@@ -56,9 +62,11 @@ Here's a regular link:
 Here's a linked image:
 
 [![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf)
+
 _Click Me!_
 
 So easy, right?!
+
 ____
 
 **Need to get extra fancy?**
