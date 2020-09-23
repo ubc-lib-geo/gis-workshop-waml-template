@@ -37,9 +37,9 @@ ___
 
 You can also add images from a file directory. If you're using GitHub Pages, that means you would want a folder where your content or images live in your GitHub repository. The syntax is the same, except replace the link with the path to the image:
 
-`![Fancy WAML Logo](../img/WAML_sticker_stylized_serif.png)`
+`![Steezy WAML Logo](../img/WAML_sticker_stylized_serif.png)`
 
-![Fancy WAML Logo](../img/WAML_sticker_stylized_serif.png)
+![Steezy WAML Logo](../img/WAML_sticker_stylized_serif.png)
 
 Sweet!
 
