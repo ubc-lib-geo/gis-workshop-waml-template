@@ -58,7 +58,7 @@ ___
 
 **Link an image:**
 
-To link an image, you just need to put the embed the image syntax within the syntax for a hyperlink:
+To link an image, you just need to embed the image syntax within the syntax for a hyperlink:
 
 Here's a regular link:
 
@@ -67,6 +67,8 @@ Here's a regular link:
 [WAML Conference 2020](http://www.waml.org/conf)
 
 Here's a linked image:
+
+`[![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf)`
 
 [![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf)
 
@@ -81,6 +83,7 @@ ____
 You can also add html directly to Markdown. Say you wanted to change the size of an image, for example.
 
 `<img src='../img/WAML_sticker_stylized_serif.png' width='250' alt='WAML sticker'>`
+
 <img src='../img/WAML_sticker_stylized_serif.png' width='250' alt='WAML sticker'>
 
 Aren't you so fancy!!
