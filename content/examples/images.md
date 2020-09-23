@@ -7,6 +7,7 @@ nav_order: 1
 # Adding images to your page
 
 #### Adding an image is super easy! Here are a few methods
+[View the source Markdown for this page](https://raw.githubusercontent.com/ubc-lib-geo/gis-workshop-waml-template/master/content/examples/images.md)
 ___
 
 **Add an image from the web:**
@@ -28,6 +29,7 @@ You can also add images "reference style." This is handy if you don't want to cl
 ![Point Sublime][Sublime]
 
 Nice job!
+
 ___  
 
 **Add an image from your directory:**
@@ -35,7 +37,9 @@ ___
 You can also add images from a file directory. If you're using GitHub Pages, that means you would want a folder where your content or images live in your GitHub repository. The syntax is the same, except replace the link with the path to the image:
 
 `![Fancy WAML Logo](../img/WAML_sticker_stylized_serif.png)`
+
 ![Fancy WAML Logo](../img/WAML_sticker_stylized_serif.png)
+
 Sweet!
 
 ___
@@ -45,7 +49,9 @@ ___
 Want to put a gif in there? No problem!
 
 `![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif)`
+
 ![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif)
+
 _Note: "gif" is pronounced with a hard "g"_
 
 ___
@@ -57,6 +63,7 @@ To link an image, you just need to put the embed the image syntax within the syn
 Here's a regular link:
 
 `[WAML Conference 2020](http://www.waml.org/conf)`
+
 [WAML Conference 2020](http://www.waml.org/conf)
 
 Here's a linked image:
