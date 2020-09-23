@@ -36,7 +36,7 @@ nav_order: 8
 
 
 ## Git Commands:
-Use these on your local terminal.
+Use these on your local terminal. Note that these are just a few of the most common basic commands. See [Git documentation](https://git-scm.com/docs).
 
 **Add (command)** – `git add myfile.txt`. Add is the first step in adding a new file or a modified file into a Git repository. The Add command adds new/modified files to a staging area.
 
