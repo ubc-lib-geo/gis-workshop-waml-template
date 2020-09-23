@@ -31,7 +31,7 @@ Do this other thing
 
 __Circled numbers__
 
-This synax...
+This syntax...
 
 ```
 *1*{: .circle .circle-blue} Number in normal text
