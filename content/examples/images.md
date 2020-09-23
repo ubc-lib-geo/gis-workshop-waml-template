@@ -8,6 +8,7 @@ nav_order: 1
 
 #### Adding an image is super easy! Here are a few methods
 [View the source Markdown for this page](https://raw.githubusercontent.com/ubc-lib-geo/gis-workshop-waml-template/master/content/examples/images.md)
+
 ___
 
 **Add an image from the web:**
