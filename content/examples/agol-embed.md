@@ -4,7 +4,7 @@ title: ArcGIS Online
 parent: Example Pages
 nav_order: 3
 ---
-# Embedding an ArcGIS Online Content
+# Embedding ArcGIS Online Content
 
 #### Here's how to add content from ArcGIS online into a Markdown file
 ___
