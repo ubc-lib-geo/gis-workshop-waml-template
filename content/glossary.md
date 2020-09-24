@@ -27,7 +27,7 @@ nav_order: 8
 
 **Jekyll** – [Jekyll](https://jekyllrb.com/) is a static site generator used for creating a variety of online content. GitHub Pages relies on Jekyll behind the scenes. The site you're looking at right now was created using Jekyll.
 
-**Markdown** – [Markdown](https://en.wikipedia.org/wiki/Markdown) is a super-simple [markup language](https://en.wikipedia.org/wiki/Markup_language). Markdown is popular for creating documentation and readme files. When used in tandem with Jekyll templates, it can be used to generate static web pages.
+**Markdown** – [Markdown](https://en.wikipedia.org/wiki/Markdown) is a super-simple [markup language](https://en.wikipedia.org/wiki/Markup_language). Markdown is popular for creating documentation and readme files. When used in tandem with Jekyll templates, it can be used to generate static web pages. This page was created in Markdown.
 
 **Ruby** – [Ruby](https://www.ruby-lang.org/en/) is an open-source programming language, and is used as a framework for Jekyll.  
 
@@ -37,6 +37,8 @@ nav_order: 8
 
 ## Git Commands:
 Use these on your local terminal. Note that these are just a few of the most common basic commands. See [Git documentation](https://git-scm.com/docs).
+
+**Init (command)** - `git init`. Use init to initiate a new repository within a directory (folder) on your computer.
 
 **Add (command)** – `git add myfile.txt`. Add is the first step in adding a new file or a modified file into a Git repository. The Add command adds new/modified files to a staging area.
 
