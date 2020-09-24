@@ -40,11 +40,12 @@ ____
 Want to embed a Story Map? Same exact procedure. Replace everything after `src=` and before </iframe> with the url for the Story Map:
 
 ```
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="https://storymaps.arcgis.com/stories/3c38d9c4e2844e25a020eb6bade919b9"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="https://storymaps.arcgis.com/stories/3c38d9c4e2844e25a020eb6bade919b9"></iframe></div>
 ```
 
 
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="https://storymaps.arcgis.com/stories/3c38d9c4e2844e25a020eb6bade919b9"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="https://storymaps.arcgis.com/stories/3c38d9c4e2844e25a020eb6bade919b9"></iframe></div>
 
+*Note: if you want to enable scrolling, you'll need to set the following: `scrolling="yes"`. This is in the iframe code.
 
 Presto!
