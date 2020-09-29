@@ -21,4 +21,14 @@ ____
 
 IIIF?
 
-<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://iiif.library.ubc.ca/presentation/cdm.mccormick.1-0023498/manifest" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-1,0,2,1" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="http://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
+<div id="ubcOpenCollectionsWidgetDisplay">
+<script id="ubcOpenCollectionsWidget"
+src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
+data-item="1.0023498"
+data-collection="mccormick"
+data-metadata="true"
+data-width="800"
+data-media="0"
+async >
+</script>
+</div>
