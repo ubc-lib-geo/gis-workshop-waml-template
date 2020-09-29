@@ -6,10 +6,13 @@ nav_order: 2
 ---
 # Embedding from your digital collections
 
+### From Luna:
 
-<iframe id="widgetPreview" frameBorder="0"  width="700px"  height="350px"  border="0px" style="border:0px solid white"  src="https://www.davidrumsey.com/luna/servlet/workspace/handleMediaPlayer?lunaMediaId=RUMSEY~8~1~307892~90077764&embedded=true&cic=RUMSEY%7E8%7E1&widgetFormat=javascript&widgetType=workspace&controls=1&nsip=1" ></iframe>
+Use the embed link built into Luna.
+*Tip*: maximize the image first then use the embed code to avoid side bars/menus.
 
+<iframe id="widgetPreview" frameBorder="0"  width="700px"  height="350px"  border="0px" style="border:0px solid white"  src="https://cudl.colorado.edu/luna/servlet/workspace/handleMediaPlayer?lunaMediaId=UCBOULDERCB1~21~21~134669~108765&embedded=true&widgetFormat=javascript&widgetType=workspace&controls=1&nsip=1" ></iframe>
 
 ____
 
-<iframe  frameBorder="0"  width="700px"  height="350px"  border="0px" style="border:0px solid white"  src="https://www.davidrumsey.com/luna/servlet/workspace/handleMediaPlayer?lunaMediaId=RUMSEY~8~1~307892~90077764></iframe>
+<iframe src="https://embed.stanford.edu/iframe?url=https://purl.stanford.edu/jn190kd7795" title="Image viewer" width="800" height="600" allowfullscreen frameborder="0" />
