@@ -20,13 +20,5 @@ ____
 ____
 
 <div id="ubcOpenCollectionsWidgetDisplay">
-<script id="ubcOpenCollectionsWidget"
-src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
-data-item="1.0023498"
-data-collection="mccormick"
-data-metadata="true"
-data-width=""
-data-media="0"
-async >
-</script>
+  <script id="ubcOpenCollectionsWidget" src="https://open.library.ubc.ca/staticfile/build/embed/item.js" data-item="1.0023498" data-collection="mccormick" data-metadata="true" data-width="" data-media="0" async ></script>
 </div>
