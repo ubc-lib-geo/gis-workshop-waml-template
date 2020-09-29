@@ -12,4 +12,4 @@ nav_order: 2
 
 ____
 
-<iframe id="widgetPreview" frameBorder="0"  width="700px"  height="350px"  border="0px" style="border:0px solid white"  src="https://mountainscholar.org/bitstream/handle/11124/175111/EBZ-01.jpeg?sequence=1&isAllowed=y></iframe>
+<iframe  frameBorder="0"  width="700px"  height="350px"  border="0px" style="border:0px solid white"  src="https://www.davidrumsey.com/luna/servlet/workspace/handleMediaPlayer?lunaMediaId=RUMSEY~8~1~307892~90077764></iframe>
