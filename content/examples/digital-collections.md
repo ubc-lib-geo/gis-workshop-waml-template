@@ -11,7 +11,7 @@ nav_order: 2
 Use the embed link built into Luna.
 *Tip*: maximize the image first then use the embed code to avoid side bars/menus.
 
-<iframe id="widgetPreview" frameBorder="0"  width="700px"  height="350px"  border="0px" style="border:0px solid white"  src="https://cudl.colorado.edu/luna/servlet/workspace/handleMediaPlayer?lunaMediaId=UCBOULDERCB1~21~21~134669~108765&embedded=true&widgetFormat=javascript&widgetType=workspace&controls=1&nsip=1" ></iframe>
+<iframe id="widgetPreview" frameBorder="0"  width="900px"  height="450px"  border="0px" style="border:0px solid white"  src="https://cudl.colorado.edu/luna/servlet/workspace/handleMediaPlayer?lunaMediaId=CUB~13~13~27~151317&embedded=true&cic=CUB%7E13%7E13&widgetFormat=javascript&widgetType=workspace&controls=1&nsip=1" ></iframe>
 
 ____
 
@@ -19,6 +19,6 @@ ____
 
 ____
 
-<div id="ubcOpenCollectionsWidgetDisplay">
-  <script id="ubcOpenCollectionsWidget" src="https://open.library.ubc.ca/staticfile/build/embed/item.js" data-item="1.0023498" data-collection="mccormick" data-metadata="true" data-width="" data-media="0" async ></script>
-</div>
+IIIF?
+
+<div class="uv" data-locale="en-GB:English (GB),cy-GB:Cymraeg" data-config="/config.json" data-uri="https://iiif.library.ubc.ca/presentation/cdm.mccormick.1-0023498/manifest" data-collectionindex="0" data-manifestindex="0" data-sequenceindex="0" data-canvasindex="0" data-xywh="-1,0,2,1" data-rotation="0" style="width:800px; height:600px; background-color: #000"></div><script type="text/javascript" id="embedUV" src="http://universalviewer.io/vendor/uv/lib/embed.js"></script><script type="text/javascript">/* wordpress fix */</script>
