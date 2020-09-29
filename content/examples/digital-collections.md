@@ -16,3 +16,17 @@ Use the embed link built into Luna.
 ____
 
 <iframe src="https://embed.stanford.edu/iframe?url=https://purl.stanford.edu/jn190kd7795" title="Image viewer" width="800" height="600" allowfullscreen frameborder="0" />
+
+____
+
+<div id="ubcOpenCollectionsWidgetDisplay">
+<script id="ubcOpenCollectionsWidget"
+src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
+data-item="1.0023498"
+data-collection="mccormick"
+data-metadata="true"
+data-width=""
+data-media="0"
+async >
+</script>
+</div>
