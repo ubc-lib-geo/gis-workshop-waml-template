@@ -13,5 +13,4 @@ nav_order: 1
 ### Workshop Slides
 
 
-<iframe width="560" height="315" frameborder="0" marginheight="0" marginwidth="0" src="https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/slides/waml_github20"></iframe>  
-Click on the slides then press the F key for full screen
+<iframe width="560" height="315" frameborder="0" marginheight="0" marginwidth="0" src="https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/slides/waml_github20"></iframe> *Click on the slides then press the F key for full screen*
