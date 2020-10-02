@@ -1,0 +1,45 @@
+I"[<h1 id="embedding-arcgis-online-content">Embedding ArcGIS Online Content</h1>
+
+<h4 id="heres-how-to-add-content-from-arcgis-online-into-a-markdown-file">Here’s how to add content from ArcGIS online into a Markdown file</h4>
+<hr />
+
+<p><strong>Basic Map</strong></p>
+
+<p>We’ll start with a basic map. Once you’ve saved any map in ArcGIS Online, you can get it’s embed code by clicking Share. Because you can add HTML directly to Markdown, just paste the code provided by AGOL directly into the Markdown file:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;style&gt;.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}&lt;/style&gt;&lt;div class="embed-container"&gt;&lt;iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="//ucboulder.maps.arcgis.com/apps/Embed/index.html?webmap=68fe25f1df2149878fa88e15a4044d52&amp;extent=-108.1261,38.2881,-101.4079,41.3297&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;disable_scroll=true&amp;theme=light"&gt;&lt;/iframe&gt;&lt;/div&gt;
+</code></pre></div></div>
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+<div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="//ucboulder.maps.arcgis.com/apps/Embed/index.html?webmap=68fe25f1df2149878fa88e15a4044d52&amp;extent=-108.1261,38.2881,-101.4079,41.3297&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe></div>
+
+<hr />
+
+<p><strong>Embedding an ArcGIS Web App</strong></p>
+
+<p>ArcGIS Online doesn’t always provide embed code for Web Apps, but no matter! Just use the same embed code from above but replace everything after <code class="language-plaintext highlighter-rouge">src=</code> and before &lt;/iframe&gt; with the url for the Web App:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;style&gt;.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}&lt;/style&gt;&lt;div class="embed-container"&gt;&lt;iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="https://ucboulder.maps.arcgis.com/apps/webappviewer/index.html?id=7ef03caa3cd848139ce0e9176da9b7e8"&gt;&lt;/iframe&gt;&lt;/div&gt;
+</code></pre></div></div>
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+<div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="https://ucboulder.maps.arcgis.com/apps/webappviewer/index.html?id=7ef03caa3cd848139ce0e9176da9b7e8"></iframe></div>
+
+<p><em>Note: this could take some formatting tweaks to get right!</em></p>
+
+<hr />
+
+<p><strong>Embedding a StoryMap</strong></p>
+
+<p>Want to embed a Story Map? Same exact procedure. Replace everything after <code class="language-plaintext highlighter-rouge">src=</code> and before &lt;/iframe&gt; with the url for the Story Map:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;style&gt;.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}&lt;/style&gt;&lt;div class="embed-container"&gt;&lt;iframe width="500" height="400" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="https://storymaps.arcgis.com/stories/3c38d9c4e2844e25a020eb6bade919b9"&gt;&lt;/iframe&gt;&lt;/div&gt;
+</code></pre></div></div>
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+<div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" title="CU Aerial Photo Collection (final)" src="https://storymaps.arcgis.com/stories/3c38d9c4e2844e25a020eb6bade919b9"></iframe></div>
+
+<p>*Note: if you want to enable scrolling, you’ll need to set the following: <code class="language-plaintext highlighter-rouge">scrolling="yes"</code>. This is in the iframe code.</p>
+
+<p>Presto!</p>
+:ET

@@ -1,0 +1,88 @@
+I"(<h1 id="adding-images-to-your-page">Adding images to your page</h1>
+
+<h4 id="adding-an-image-is-super-easy-here-are-a-few-methods">Adding an image is super easy! Here are a few methods</h4>
+<p><a href="https://raw.githubusercontent.com/ubc-lib-geo/gis-workshop-waml-template/master/content/examples/images.md">View the source Markdown for this page</a></p>
+
+<hr />
+
+<p><strong>Add an image from the web:</strong></p>
+
+<p>Start an in-line link with an exclamation point then place the alt text in the brackets followed by the image link in the parentheses:</p>
+
+<p><code class="language-plaintext highlighter-rouge">![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)</code></p>
+
+<p><img src="http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg" alt="WAML Logo" /></p>
+
+<p>You can also add images “reference style.” This is handy if you don’t want to clutter up your Markdown. You can just place the references at the bottom of the page. It goes like this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>![Point Sublime][Sublime]
+
+[Sublime]: http://www.waml.org/groundwork-master/images/grndcnyn.jpg
+</code></pre></div></div>
+
+<p><img src="http://www.waml.org/groundwork-master/images/grndcnyn.jpg" alt="Point Sublime" /></p>
+
+<p>Nice job!</p>
+
+<hr />
+
+<p><strong>Add an image from your directory:</strong></p>
+
+<p>You can also add images from a file directory. If you’re using GitHub Pages, that means you would want a folder where your content or images live in your GitHub repository. The syntax is the same, except replace the link with the path to the image:</p>
+
+<p><code class="language-plaintext highlighter-rouge">![Steezy WAML Logo](../img/WAML_sticker_stylized_serif.png)</code></p>
+
+<p><img src="../img/WAML_sticker_stylized_serif.png" alt="Steezy WAML Logo" /></p>
+
+<p>Sweet!</p>
+
+<hr />
+
+<p><strong>Add a different format:</strong></p>
+
+<p>Want to put a gif in there? No problem!</p>
+
+<p><code class="language-plaintext highlighter-rouge">![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif)</code></p>
+
+<p><img src="https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif" alt="Surfer Boy" /></p>
+
+<p><em>Note: “gif” is pronounced with a hard “g”</em></p>
+
+<hr />
+
+<p><strong>Link an image:</strong></p>
+
+<p>To link an image, you just need to embed the image syntax within the syntax for a hyperlink:</p>
+
+<p>Here’s a regular link:</p>
+
+<p><code class="language-plaintext highlighter-rouge">[WAML Conference 2020](http://www.waml.org/conf)</code></p>
+
+<p><a href="http://www.waml.org/conf">WAML Conference 2020</a></p>
+
+<p>Here’s a linked image:</p>
+
+<p><code class="language-plaintext highlighter-rouge">[![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf)</code></p>
+
+<p><a href="http://www.waml.org/conf"><img src="http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg" alt="WAML Logo" /></a></p>
+
+<p><em>Click Me!</em></p>
+
+<p>So easy, right?!</p>
+
+<hr />
+
+<p><strong>Need to get extra fancy?</strong></p>
+
+<p>You can also add html directly to Markdown. Say you wanted to change the size of an image, for example.</p>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;img src='../img/WAML_sticker_stylized_serif.png' width='250' alt='WAML sticker'&gt;</code></p>
+
+<p><img src="../img/WAML_sticker_stylized_serif.png" width="250" alt="WAML sticker" /></p>
+
+<p>Aren’t you so fancy!!</p>
+
+<p><img src="https://media.giphy.com/media/i5gAt8Fq6xl9C/giphy.gif" alt="So Fancy" /></p>
+
+<!--reference links-->
+:ET

@@ -1,0 +1,50 @@
+I"d<h1 id="glossary">Glossary</h1>
+
+<h2 id="general">General:</h2>
+
+<p><strong>Command line</strong> – (or Terminal) An interface for entering textual commands on your computer. On Mac OS, this is known as the Terminal and is found in the Applications/Utilities directory. On Windows, this is known as the Command Prompt and can be found under Start&gt;Windows System. Git Bash is also a popular command line interface.</p>
+
+<p><strong>Git</strong> – <a href="https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F">Git</a> is a version control software. Many people use Git from the command line, but there is also a <a href="https://desktop.github.com/">desktop GUI interface</a>.</p>
+
+<p><strong>Git Repository</strong> – A Git repository is essentially an instance of Git version control running in a file directory on your computer. You create a Git repository on your computer by either cloning a repository from GitHub, or by initializing a new repository in a directory (folder) on your computer. On your own computer, this is called a “local repository.” On GitHub, this is referred to as a “remote repository.” See <a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter">Git Basics</a>.</p>
+
+<p><strong>GitHub</strong> – (or <a href="https://www.github.com">GitHub.com</a>) GitHub is a free(mium) website for hosting remote Git repositories. It is primarily used for code. GitHub facilitates collaboration by providing access control, task management, bug tracking, and more for all of it’s project repositories.</p>
+
+<p><strong>GitHub Pages</strong> – <a href="https://pages.github.com">GitHub Pages</a> is a built-in function of GitHub that converts a repository into a website. Pages is a very simple method for creating static webpages.</p>
+
+<p><strong>Main/Master</strong> – The primary repository for a project on GitHub. Formerly named “master”, this was updated to “main” October 1 2020. (Many repositories will still use “master” until updated by their owners.)</p>
+
+<p><strong>Fork</strong> – A fork is a remote copy of a GitHub repository. Forking a repository permits others to make changes to a project without modifying the main/master branch of the project. Once forked and modified, changes can be merged with the main/master by way of a Pull Request.</p>
+
+<p><strong>Pull Request</strong> – A method for suggesting changes to content stored in a GitHub repository. Someone wishing to make a change to a repository can fork the main repository, modify a file(s), and submit a pull request that will be reviewed by the main repository’s owner. If accepted, the changes will be merged with the main repository.</p>
+
+<p><strong>Jekyll</strong> – <a href="https://jekyllrb.com/">Jekyll</a> is a static site generator used for creating a variety of online content. GitHub Pages relies on Jekyll behind the scenes. The site you’re looking at right now was created using Jekyll.</p>
+
+<p><strong>Markdown</strong> – <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a> is a super-simple <a href="https://en.wikipedia.org/wiki/Markup_language">markup language</a>. Markdown is popular for creating documentation and readme files. When used in tandem with Jekyll templates, it can be used to generate static web pages. This page was created in Markdown.</p>
+
+<p><strong>Ruby</strong> – <a href="https://www.ruby-lang.org/en/">Ruby</a> is an open-source programming language, and is used as a framework for Jekyll.</p>
+
+<!-- **Terminal** – -->
+
+<h2 id="git-commands">Git Commands:</h2>
+<p>Use these on your local terminal. Note that these are just a few of the most common basic commands. See <a href="https://git-scm.com/docs">Git documentation</a>.</p>
+
+<p><strong>Init (command)</strong> - <code class="language-plaintext highlighter-rouge">git init</code>. Use init to initiate a new repository within a directory (folder) on your computer.</p>
+
+<p><strong>Add (command)</strong> – <code class="language-plaintext highlighter-rouge">git add myfile.txt</code>. Add is the first step in adding a new file or a modified file into a Git repository. The Add command adds new/modified files to a staging area.</p>
+
+<p><strong>Commit (command)</strong> – <code class="language-plaintext highlighter-rouge">git commit -m "I made some edits"</code>. Commit is the second step in adding a new/modified file to the Git repository. Commit moves new/modified files from the staging area to the repository. You must include a message following the <code class="language-plaintext highlighter-rouge">-m</code> flag. Be sure to make your commit message descriptive in case you need it later.</p>
+
+<p><strong>Clone (command)</strong> – <code class="language-plaintext highlighter-rouge">git clone https://github.com/user/repo-name</code> Make a copy of a remote repository from GitHub.com on your local computer. This is one method of creating a connection between a local and remote repository that you can use to push or pull changes.</p>
+
+<p><strong>Pull (command)</strong> – <code class="language-plaintext highlighter-rouge">git pull origin master</code> Use this to pull updates from the remote repository down to your local copy.</p>
+
+<p><strong>Push (command)</strong> – <code class="language-plaintext highlighter-rouge">git push origin master</code> Use this to push updates made to your local repository to the remote repository.</p>
+
+<p><strong>Status (command)</strong> – <code class="language-plaintext highlighter-rouge">git status</code> Check if you have any un-added/committed changes to your local repository.</p>
+
+<p><strong>Log (command)</strong> – <code class="language-plaintext highlighter-rouge">git log</code> See past commit history including comments and hash ID of each commit. <code class="language-plaintext highlighter-rouge">q</code> to exit Log interface. Use <code class="language-plaintext highlighter-rouge">git log --oneline</code> for a condensed log.</p>
+
+<p><strong>Revert (command)</strong> – <code class="language-plaintext highlighter-rouge">git revert [hash id]</code> Use this to revert to an earlier commit. Use the Log command to find previous commits’ hash IDs.</p>
+
+:ET

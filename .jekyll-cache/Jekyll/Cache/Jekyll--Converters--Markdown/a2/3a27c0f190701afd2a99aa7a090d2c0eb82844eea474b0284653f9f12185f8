@@ -1,0 +1,12 @@
+I"�<h1 id="a-jekyll-template-for-gis-workshops">A Jekyll template for GIS workshops</h1>
+
+<ul class="prereq">
+  <li>A GitHub.com account. If you don’t already have a GitHub.com account, you can <a href="https://github.com/join">create one here</a>. Take this short video <a href="https://youtu.be/noZnOSpcjYY">Getting Started with GitHub</a> if you’re brand new and want to get a high-level overview of the platform.</li>
+  <li>Comfortable working with code/syntax.</li>
+</ul>
+
+<h3 id="workshop-slides">Workshop Slides</h3>
+
+<iframe height="315" frameborder="0" marginheight="0" marginwidth="0" src="content/slides/waml_github2020.html"></iframe>
+<p><em>Click on the slides then press the F key for full screen</em></p>
+:ET

@@ -1,0 +1,56 @@
+I"�<h1 id="step-by-step-instruction">Step-by-step instruction</h1>
+
+<p><strong>Step-by-step instructions</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Step 1
+{: .label .label-step}
+Do this thing
+{: .step}
+
+Step 2
+{: .label .label-step}
+Do this other thing
+{: .step}
+</code></pre></div></div>
+<p class="label label-step">Step 1</p>
+<p class="step">Do this thing</p>
+
+<p class="label label-step">Step 2</p>
+<p class="step">Do this other thing</p>
+
+<p><strong>Circled numbers</strong></p>
+
+<p>This syntax…</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>*1*{: .circle .circle-blue} Number in normal text
+</code></pre></div></div>
+<p>…will look like this:</p>
+
+<p><em class="circle circle-blue">1</em> Number in normal text</p>
+
+<p>You can also use this in headers, lists and other markdown suported elements, e.g.,</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* *1*{: .circle .circle-blue} `.circle-blue`
+* *2*{: .circle .circle-red} `.circle-red`
+* *3*{: .circle .circle-yellow} `.circle-yellow`
+* *4*{: .circle .circle-green} `.circle-green`
+* *5*{: .circle .circle-purple} `.circle-purple`
+
+## *2*{: .circle .circle-red} Number in h2
+
+### *10*{: .circle .circle-yellow} Number in h3
+</code></pre></div></div>
+
+<p>…will look like this:</p>
+
+<ul>
+  <li><em class="circle circle-blue">1</em> <code class="language-plaintext highlighter-rouge">.circle-blue</code></li>
+  <li><em class="circle circle-red">2</em> <code class="language-plaintext highlighter-rouge">.circle-red</code></li>
+  <li><em class="circle circle-yellow">3</em> <code class="language-plaintext highlighter-rouge">.circle-yellow</code></li>
+  <li><em class="circle circle-green">4</em> <code class="language-plaintext highlighter-rouge">.circle-green</code></li>
+  <li><em class="circle circle-purple">5</em> <code class="language-plaintext highlighter-rouge">.circle-purple</code></li>
+</ul>
+
+<h2 id="2-number-in-h2"><em class="circle circle-red">2</em> Number in h2</h2>
+
+<h3 id="10-number-in-h3"><em class="circle circle-yellow">10</em> Number in h3</h3>
+:ET

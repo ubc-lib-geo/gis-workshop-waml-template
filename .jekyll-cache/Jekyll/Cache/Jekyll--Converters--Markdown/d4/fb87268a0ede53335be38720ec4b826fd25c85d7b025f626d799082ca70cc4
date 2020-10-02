@@ -1,0 +1,108 @@
+I"#<h1 id="ui-features">UI features</h1>
+
+<h2 id="selected-text-formatting-options">Selected text formatting options</h2>
+<p>Below are selected formatting options that may be useful in  in RC worskhop sites.</p>
+
+<p><strong>Notes</strong></p>
+
+<p>Use this syntax…</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Wash your hands frequently
+{: .note}
+</code></pre></div></div>
+<p>… to include a note that will look like this on the workshop website:</p>
+
+<p class="note">Wash your hands frequently</p>
+
+<p><strong>Warning</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Don't step on the snails!
+{: .warn}
+</code></pre></div></div>
+<p class="warn">Don’t step on the snails!</p>
+
+<p><strong>Danger</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Snails armed and dangerous
+{: .danger}
+</code></pre></div></div>
+<p class="danger">Snails armed and dangerous</p>
+
+<p><strong>Prerequisites.</strong></p>
+
+<p>This synax…</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Basic slug identification
+- Comfortable in the woods
+{: .prereq}
+</code></pre></div></div>
+<p>…will look like this:</p>
+
+<p>Something else here</p>
+<ul class="prereq">
+  <li>Basic slug identification</li>
+  <li>Comfortable in the woods</li>
+</ul>
+
+<p><strong>Terminal input.</strong></p>
+
+<p>Use this formatting to indicate that the participant should input text into the terminal or command line. This…</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Input
+{: .label .label-green }
+```
+$ git status
+```
+</code></pre></div></div>
+<p>… will appear like this in the workshop website:</p>
+
+<p class="label label-green">Input</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git status
+</code></pre></div></div>
+
+<p><strong>Terminal output.</strong></p>
+
+<p>Shows the output resulting from an action.  This syntax…</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Output
+{: .label .label-yellow }
+```
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working tree clean
+```
+</code></pre></div></div>
+
+<p>…looks like this on the site:</p>
+
+<p class="label label-yellow">Output</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working tree clean
+</code></pre></div></div>
+
+<p><strong>Dropdowns</strong></p>
+
+<p>You can use dropdowns to hide answers to questions. For example:</p>
+
+<details>
+<summary>Who was the first U.S. president?</summary>
+<br />
+George Washington.
+</details>
+
+<p>To create hidden content in a dropdown use this:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;details&gt;
+&lt;summary&gt;This is the dropdown title&lt;/summary&gt;
+&lt;br&gt;
+This is the hidden dropdown content.
+&lt;/details&gt;
+</code></pre></div></div>
+
+<p>If you want it open by default:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;details open&gt;
+&lt;summary&gt;This is the dropdown title&lt;/summary&gt;
+&lt;br&gt;
+This is the dropdown content that you can hide if you want to.
+&lt;/details&gt;
+</code></pre></div></div>
+:ET
