@@ -35,7 +35,7 @@ _Actual schedule may vary depending on group needs_
 ### Workshop Slides
 
 
-<iframe src="content/slides/waml_github2020" title="demo embedded slide deck" scrolling="no" frameborder="0" style="border: 0; height: 350px; width: 100%; left: 0; top: 0;">
+<iframe src="content/slides/waml_github20" title="demo embedded slide deck" scrolling="no" frameborder="0" style="border: 0; height: 350px; width: 100%; left: 0; top: 0;">
 Your browser does not support iframes.
 
 </iframe> *Click on the slides then press the F key for full screen*
