@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Digital Collections",
     "title": "Embedding from your digital collections",
-    "content": " ",
+    "content": "From Luna: . Use the embed link built into Luna. Tip: maximize the image first then use the embed code to avoid side bars/menus. IIIF? . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/digital-collections.html#embedding-from-your-digital-collections",
     "relUrl": "/content/examples/digital-collections.html#embedding-from-your-digital-collections"
   },"4": {
@@ -103,7 +103,7 @@
   },"17": {
     "doc": "Home",
     "title": "A Jekyll template for GIS workshops",
-    "content": ". | A GitHub.com account. If you don’t already have a GitHub.com account, you can create one here. Take this short video Getting Started with GitHub if you’re brand new and want to get a high-level overview of the platform. | Comfortable working with code/syntax. | . ",
+    "content": ". | A GitHub.com account. If you don’t already have a GitHub.com account, you can create one here. Take this short video Getting Started with GitHub if you’re brand new and want to get a high-level overview of the platform. | Comfortable working with code/syntax. | . Workshop Slides . Your browser does not support iframes. Click on the slides then press the F key for full screen . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/#a-jekyll-template-for-gis-workshops",
     "relUrl": "/#a-jekyll-template-for-gis-workshops"
   },"18": {
