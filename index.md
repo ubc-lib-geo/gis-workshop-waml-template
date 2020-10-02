@@ -19,7 +19,6 @@ You may not feel totally comfortable using GitHub – this is okay. As with any 
 
 | Time | Content
 | --- | ---
-| - | Part 1 - The basics
 | 0:00 | Introduction
 | 0:10 | [Land acknowledgement](content/land-acknowledgement)
 | 0:20 | Demystifying GitHub for workshops (presentation)
