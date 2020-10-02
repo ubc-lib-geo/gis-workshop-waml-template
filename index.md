@@ -9,6 +9,29 @@ nav_order: 1
 - Comfortable working with code/syntax.
 {: .prereq}
 
+### Goal of this workshop
+
+Our goal is to introduce you to how we use GitHub.com for creating and delivering GIS workshops online, so that you can consider using them in your own work. There will be a hands-on section where we will fork ("copy") an existing workshop repo to your own GitHub account, publish the repo with GitHub Pages, and to make some edits.
+
+You may not feel totally comfortable using GitHub – this is okay. As with any skill, using Jekyll and GitHub Pages takes practice. In this workshop, we want you to understand and get familiar with some of the workflows and terminology so that you are equipped to experiment on your own.
+
+### Schedule
+
+| Time | Content
+| --- | ---
+| - | Part 1 - The basics
+| 0:00 | Introduction
+| 0:10 | [Land acknowledgement](content/land-acknowledgement)
+| 0:20 | Demystifying GitHub for workshops (presentation)
+| 0:50 | Break
+| 1:00 | Forking the workshop template (hands on)
+| 1:15 | A look under the hood
+| 1:30 | Create your first page (hands on)
+| 1:40 | Add it to the Navigation (hands on)
+| 1:50 | Q&A
+
+
+_Actual schedule may vary depending on group needs_
 
 ### Workshop Slides
 

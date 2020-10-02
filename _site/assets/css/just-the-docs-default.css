@@ -1554,6 +1554,8 @@ code { font-family: "SFMono-Regular", Menlo, Consolas, Monospace; font-size: 14p
 
 .label { font-size: 9px; padding-bottom: 0.05em; padding-top: 0.05em; margin-bottom: 0; margin-left: 0; }
 
+th, td { font-size: 12px !important; min-width: 120px; padding-top: 0.5rem; padding-right: 0.75rem; padding-bottom: 0.5rem; padding-left: 0.75rem; background-color: #fff; border-bottom: 1px solid rgba(238, 235, 238, 0.5); border-left: 1px solid #eeebee; }
+
 .step { padding: 20px; background-color: #F5F6FA; border-radius: 5px; }
 
 .circle, .circle-blue { display: inline-block; line-height: 28px; width: 28px; height: 28px; border-radius: 50%; text-align: center; background-color: #2D84FA; color: white; font-size: 11px !important; }
