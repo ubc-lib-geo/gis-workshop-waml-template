@@ -8,3 +8,5 @@ nav_order: 8
 ## Working locally
 
 ## Creating a Jekyll site from scratch
+
+## Deleting a Repo
