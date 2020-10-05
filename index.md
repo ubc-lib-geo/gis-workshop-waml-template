@@ -10,15 +10,17 @@ ___
 
 ### Presenters
 
-Evan Thornberry <a href='https://github.com/ect123' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:20px'></a></h4>
+Evan Thornberry <a href='https://github.com/ect123' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px'></a>
 GIS Librarian
 University of British Columbia Library
 [evan.thornberry@ubc.ca](mailto:evan.thornberry@ubc.ca)
 
-Phil White <a href='https://github.com/outpw' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:20px'></a></h4>
+
+Phil White <a href='https://github.com/outpw' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px'></a>
 Earth, Environment & Geospatial Librarian
 University of Colorado Boulder Libraries
 [philip.white@colorado.edu](mailto:philip.white@colorado.edu)
+
 
 - A GitHub.com account. If you don't already have a GitHub.com account, you can [create one here](https://github.com/join). Take this short video [Getting Started with GitHub](https://youtu.be/noZnOSpcjYY) if you're brand new and want to get a high-level overview of the platform.
 - Comfortable working with code/syntax.
@@ -50,7 +52,7 @@ _Actual schedule may vary depending on group needs_
 ### Workshop Slides
 
 
-<iframe src="content/slides/waml_github20" title="demo embedded slide deck" scrolling="no" frameborder="0" style="border: 0; height: 350px; width: 100%; left: 0; top: 0;">
+<iframe src="content/slides/waml_github20" title="demo embedded slide deck" scrolling="no" frameborder="0" style="border: 0; height: 325px; width: 100%; left: 0; top: 0;">
 Your browser does not support iframes.
 
 </iframe> *Click on the slides then press the F key for full screen*
