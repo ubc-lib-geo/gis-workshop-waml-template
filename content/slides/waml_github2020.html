@@ -8,70 +8,196 @@
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="css/theme/AAGstyle.css" id="theme">
+		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
 
 		<!-- Theme used for syntax highlighted code -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+
+		<!-- emoji style -->
+		<link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
+
+		<style>
+
+		#left_slide {
+			text-align: left;}
+
+		</style>
+
 	</head>
+
 	<body>
 		<div class="reveal">
+			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
+
 				<section>
-          <h2 style="text-align: left; ">Teaching with GitHub</h2>
+					<h2 style="text-align: left; ">Teaching with GitHub</h2>
 					<p style="text-align: left; ">WAML 2020 Preconference Workshop</p><br><br><br>
-            <div style="text-align: right;">
-              <p><strong>Evan & Phil</strong></p>
+						<div style="text-align: right;">
+							<p><strong>Evan & Phil</strong></p>
 							<p>Oct. 14, 2020</p>
-							<p style='font-size:30px'><a href = "https://github.com/outpw/wamlworkshop20">github.com/outpw/wamlworkshop20</a></p>
-            </div>
-        </section>
+						</div>
+				</section>
 
-        <section>
-          <h3  style="text-align: left; ">Land Acknowledgement</h3><br>
+				<section>
+					<h3  style="text-align: left; ">Land Acknowledgement</h3><br>
 
-        </section>
+				</section>
 
-        <section>
-          <h3 style="text-align: left; ">Presenters Bios</h3>
-        </section>
+				<section>
+					<div  id='left_slide'>
+						<h3>Presenters</h3><br>
+						<h4>Evan Thornberry <a href='https://github.com/ect123' target='_blank'><img src='../img/GitHub-Mark-custom.svg' style='width:30px'></a></h4>
+						<p style='font-size:x-large'>GIS Librarian</p>
+						<p style='font-size:x-large'>University of British Columbia Library</p>
+						<p style='font-size:x-large'><a href='mailto:evan.thornberry@ubc.ca'>evan.thornberry@ubc.ca</a></p><br>
+						<h4>Phil White <a href='https://github.com/outpw' target='_blank'><img src='../img/GitHub-Mark-custom.svg' style='width:30px'></a></h4>
+						<p style='font-size:x-large'>Earth, Environment & Geospatial Librarian</p>
+						<p style='font-size:x-large'>University of Colorado Boulder Libraries</p>
+						<p style='font-size:x-large'><a href='mailto:philip.white@colorado.edu'>philip.white@colorado.edu</a></p>
+					</div>
+				</section>
 
-        <section>
-          <div style="text-align: left;">
-            <h3>Outline</h3><br>
-            <ol>
-              <li>Stuff!<br>
-                <p class='fragment'>stuff<p></li><br>
-              <li>More stuff!</li><br>
-                <p class='fragment'>stuff stuff stuff</p</li>
-            </ol>
-          </div>
-        </section>
+				<section>
+					<div id='left_slide'>
+						<h4>Agenda</h4><br>
+						<div style='text-indent:30px'>
+							<ol>
+								<li>GitHub—<span style='font-style:italic'>Demystified!</span></li><br>
+								<li>Overview of GitHub Pages</li><br>
+								<li>Hands On</li><br>
+								<li>Wrap up & discussion</li>
+							</ol>
+						</div>
+					</div>
+				</section>
 
-        <section>
-          <section>
-						<h2>GitHub</h2>
-          </section>
+				<section data-background-color='#E3CF57'>
+					<h2>PSA:</h2>
+					<span class='fragment'>
+						<h4>If you have not created an account on <a href='https://github.com/' target='_blank'>GitHub.com</a>, please do so now!</h4>
+					</span><br>
+					<p class='fragment'>Also, just make sure you can log-in. <i class="em em-bird" aria-role="presentation" aria-label="BIRD"></i></p>
+				</section>
+
+				<section>
+					<div id='left_slide'>
+						<h4><span style='font-style:italic'>But first...</span><span class='fragment'>Why are we doing this?</span></h4>
+							<ul>
+								<li class='fragment'>GitHub... collaborative, flexible, customizable, all in one...?</li>
+								<li class='fragment'>GitHub Pages is free and very approachable.</li>
+								<li class='fragment'></li>
+							</ul>
+				</section>
+
+				<section>
 					<section>
-						<h3>github stuff</h3>
+						<h2>GitHub Demystified</h2>
+					</section>
+					<section>
+						<div id='left_slide'>
+							<h3>What is "Git"?</h3>
+							<ul>
+								<li class='fragment'><a href='https://git-scm.com/' target='_blank'>Git</a> = version control software</li>
+								<li class='fragment'>Free and open source</li>
+								<li class='fragment'>Git is for your computer—you run it locally</li>
+								<li class='fragment'>Project-specific repositories hold past versions of files</li>
+								<li class='fragment'>Mostly a command-line tool</li>
+								<li class='fragment'>Very useful for project managment</li>
+							</ul>
+						</div>
 					</section>
 
-        </section>
+					<section>
+						<div id='left_slide'>
+							<h3>What is "GitHub"?</h3>
+							<ul>
+								<li class='fragment'><a href='https://github.com/' target='_blank'>GitHub.com</a> is a website that uses Git</li>
+								<li class='fragment'>Lets you store a git repo on the web</li>
+								<li class='fragment'>Link a local repo to a web repo (hello backup!)</li>
+								<li class='fragment'>Allows for multiple contributors to a repo</li>
+								<li class='fragment'>Built-in tools for managing collabs/QC</li>
+								<li class='fragment'>Very popular w/ devlopers/ programmers/ coders</li>
+							</ul>
+						</div>
+					</section>
 
-        <section>
+					<section>
+						<h3 style='font-style:italic'>Intimidating?</h3><br>
+						<h3 class='fragment'>We get it.</h3><br>
+						<p class='fragment'>We made a <a href='https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/glossary.html' target='_blank'>glossary</a>.</p>
+					</section>
 
-          <section>
-            <h2>GitHub Pages</h2>
-          </section>
+					<section>
+						<p>insert Evan's drawing</p>
+					</section>
 
-          <section>
-						<h3>pages stuff</h3>
-          </section>
+					<section>
+						<div id='left_slide'>
+							<h4>A few terms:</h4>
+							<ol>
+								<li class='fragment'><span style='font-style:bold'>Local Repo: </span>A repo on your computer.</li>
+								<li class='fragment'><span style='font-style:bold'>Remote Repo: </span>A repo on GH.</li>
+								<li class='fragment'><span style='font-style:bold'>Fork: </span>Make a remote copy of a GH repo.</li>
+								<li class='fragment'><span style='font-style:bold'>Clone: </span>Make a local copy of a GH repo.</li>
+								<li class='fragment'><span style='font-style:bold'>Pull Request: </span>Suggest an edit to a GH repo.</li>
+							</ol>
+						</div>
+					</section>
 
-          <section>
-              <h3>pages stuff</h3>
-          </section>
+					<section>
+						<h2>How do we use GitHub?</h2>
+						<h4 class='fragment'>Let us count the ways...</h4>
+					</section>
 
-        </section>
+				</section>
+
+				<section>
+
+					<section>
+						<h2>GitHub Pages</h2>
+					</section>
+
+					<section>
+						<div id='left_slide'>
+							<h3>What is GitHub Pages?</h3>
+							<ul>
+								<li class='fragment'><a href='https://pages.github.com/' target='_blank'>GitHub Pages</a>: static webpages hosted on GitHub.</li>
+								<li class='fragment'>Free! Simple!</li>
+								<li class='fragment'>Add webpages and associated content to a repo...</li>
+								<li class='fragment'>...Basically flip a switch...</li>
+								<li class='fragment'>...and BAM! you have a website.</li>
+							</ul>
+						</div>
+					</section>
+
+					<section>
+							<h3>Don't know HTML/CSS?</h3><br>
+							<h3 class='fragment' style='font-style:italic'>No problem!</h3><br>
+							<h3 class='fragment fade-right'>Enter <a href='https://jekyllrb.com/' target='_blank'>JEKYLL</a></h3>
+					</section>
+
+					<section>
+						<div id=left_slide>
+							<h3>Jekyll</h3>
+							<ul>
+								<li>"Simple, Static" websites</li>
+								<li>Uses templates—there are many!</li>
+								<li>GitHub pages are powered by Jekyll, making deploying a Jekyll-based site super simple.</li>
+								<li>Once deployed, create new pages using <a href='https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet' target='_blank'>Markdown</a></li>
+							</ul>
+						</div>
+					</section>
+
+					<section>
+						<h3>do we need to explain gemfile, yml, etc???</h3>
+					</section>
+
+					<section>
+						<h2>How do we use Page?</h2>
+					</section>
+
+				</section>
 
 				<section>
 
@@ -106,7 +232,7 @@
 						<ul>
 							<li><a href="" target="_blank"></a>a link</li>
 							<li><a href="" target="_blank"></a>another link</li>
-							<li><a href="" target="_blank"></a>another link</li>
+							<li><a href="" target="_blank">s</a>another link</li>
 						</ul>
 						<p>Contact:</p>
 						<ul>
@@ -117,10 +243,11 @@
 						</ul>
 				</section>
 
+
 			</div>
 		</div>
 
-		<script src="dist/reveal.js"></script>
+		<script src="js/reveal.js"></script>
 		<script src="plugin/notes/notes.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
