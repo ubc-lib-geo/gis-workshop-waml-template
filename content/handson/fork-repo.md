@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Fork This Workshop
-nav_order:
+parent: Hands On
+nav_order: 8
 ---
 # Fork this workshop template
 In this workshop we're going to duplicate this same workshop to your own GitHub account, then make some edits together. Can tinker and reuse this template anytime on your own account.
@@ -12,4 +13,4 @@ In this workshop we're going to duplicate this same workshop to your own GitHub 
 ### *2*{: .circle .circle-blue} Click on the option to Fork the repository.
 You'll see an option to Fork at the top right of your screen.   
 
-![Fork location](img/fork-location.png)
+![Fork location](../img/fork-location.png)
