@@ -4,6 +4,21 @@ title: Home
 nav_order: 1
 ---
 # A Jekyll template for GIS workshops
+### WAML 2020  Preconference Workshop
+
+___
+
+### Presenters
+
+Evan Thornberry <a href='https://github.com/ect123' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:20px'></a></h4>
+GIS Librarian
+University of British Columbia Library
+[evan.thornberry@ubc.ca](mailto:evan.thornberry@ubc.ca)
+
+Phil White <a href='https://github.com/outpw' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:20px'></a></h4>
+Earth, Environment & Geospatial Librarian
+University of Colorado Boulder Libraries
+[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
 
 - A GitHub.com account. If you don't already have a GitHub.com account, you can [create one here](https://github.com/join). Take this short video [Getting Started with GitHub](https://youtu.be/noZnOSpcjYY) if you're brand new and want to get a high-level overview of the platform.
 - Comfortable working with code/syntax.
@@ -39,3 +54,6 @@ _Actual schedule may vary depending on group needs_
 Your browser does not support iframes.
 
 </iframe> *Click on the slides then press the F key for full screen*
+
+
+You can view the GitHub repository for this Jekyll site at: [https://github.com/ubc-lib-geo/gis-workshop-waml-template]('https://github.com/ubc-lib-geo/gis-workshop-waml-template')
