@@ -5,8 +5,10 @@ nav_order: 8
 ---
 # Next steps for learning more
 
-## Working locally
+## Cloning and working locally
+
+## Using a different theme
 
 ## Creating a Jekyll site from scratch
 
-## Deleting a Repo
+## Deleting a GitHub repository
