@@ -2,7 +2,7 @@
 layout: default
 title: Fork This Workshop
 parent: Hands On
-nav_order: 8
+nav_order: 1
 ---
 # Fork this workshop template
 In this workshop we're going to duplicate this same workshop to your own GitHub account, then make some edits together. Can tinker and reuse this template anytime on your own account.

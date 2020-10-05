@@ -2,7 +2,7 @@
 layout: default
 title: Change Navigation
 parent: Hands On
-nav_order: 8
+nav_order: 6
 ---
 # Change the Navigation Order
 
