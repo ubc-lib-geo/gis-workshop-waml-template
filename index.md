@@ -52,10 +52,8 @@ _Actual schedule may vary depending on group needs_
 ### Workshop Slides
 
 
-<iframe src="content/slides/waml_github20" title="demo embedded slide deck" scrolling="no" frameborder="0" style="border: 0; width="560"; height="315"; left: 0; top: 0;">
-Your browser does not support iframes.
-
-</iframe> *Click on the slides then press the F key for full screen*
+<iframe width="560" height="315" frameborder="0" marginheight="0" marginwidth="0" src="content/slides/waml_github20"></iframe>    
+*Click on the slides then press the F key for full screen*
 
 
 You can view the GitHub repository for this Jekyll site at: [https://github.com/ubc-lib-geo/gis-workshop-waml-template]('https://github.com/ubc-lib-geo/gis-workshop-waml-template')
