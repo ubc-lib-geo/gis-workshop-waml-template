@@ -56,4 +56,4 @@ _Actual schedule may vary depending on group needs_
 *Click on the slides then press the F key for full screen*
 
 
-You can view the GitHub repository for this Jekyll site at: [https://github.com/ubc-lib-geo/gis-workshop-waml-template]('https://github.com/ubc-lib-geo/gis-workshop-waml-template')
+You can view the GitHub repository for this Jekyll site at: [https://github.com/ubc-lib-geo/gis-workshop-waml-template](https://github.com/ubc-lib-geo/gis-workshop-waml-template)
