@@ -1,0 +1,37 @@
+<html>
+  <head>
+
+    <title>Your index map</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="crossorigin=""></script>
+    <script src="oim-index.js" charset="utf-8"></script>
+
+  </head>
+
+  <body>
+
+    <div id="mapid" style="height: 100%;"></div>
+    <script>
+
+      var map = L.map('mapid');
+
+      var Stadia_OSMBright = L.tileLayer('https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png', {
+          maxZoom: 20,
+          attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+            }).addTo(map);
+
+      var index = L.geoJSON(oimIndex, {onEachFeature}).addTo(map);
+          map.fitBounds(index.getBounds())
+
+      function onEachFeature(feature, layer) {layer.bindPopup("<h2>" + feature.properties.title +
+        "</h2><p><b>Sheet:</b> " + feature.properties.label +
+        "<br><b>Edition:</b> " + feature.properties.edition +
+        "<br><b>Date:</b> " + feature.properties.datePub +
+        "<br><b>Scale:</b> " + feature.properties.scale +
+        "<br><b>Institution:</b> " + feature.properties.inst + "</p>");}
+
+    </script>
+  </body>
+</html>

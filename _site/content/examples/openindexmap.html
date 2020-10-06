@@ -130,6 +130,47 @@
         
         
       </h1>
+
+<p>You add web maps of just about any kind to your site, however it does require some extra files and customization. As a basic example, let’s demonstrate a web map powered by Leaflet.js which displays an index map in the OpenIndexMap (OIM) content format standard.</p>
+
+<p>In this case we’ve created 2 extra files called <code class="language-plaintext highlighter-rouge">oim-index.js</code> and <code class="language-plaintext highlighter-rouge">oim-map.html</code> – which are located in your sites <code class="language-plaintext highlighter-rouge">content/data/</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>├── content
+│   ├── data
+│   │   ├── oim-index.js
+│   │   ├── oim-map.html
+│   │   └── ...
+</code></pre></div></div>
+    
+      <h3 id="oim-indexjs">
+        
+        
+          <a href="#oim-indexjs" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> oim-index.js
+        
+        
+      </h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">oim-index.js</code> file is a JavaScript file containing only one variable - the .geoJson-structured information for your (OIM) index map. In this case we’re using an index for a series of maps showing the forest cover of British Columbia in the 1950s, but you can swap .geoJson text for any OIM index you have.</p>
+
+<p class="danger">Your index map must have OIM standard fields or it wont work.</p>
+    
+      <h3 id="oim-maphtml">
+        
+        
+          <a href="#oim-maphtml" class="anchor-heading"><svg viewBox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> oim-map.html
+        
+        
+      </h3>
+
+<p>The <code class="language-plaintext highlighter-rouge">oim-map.html</code> file is your map document, which displays at full size. <a href="../data/oim-map.html" target="_blank">Here’s a direct link</a>.</p>
+
+<p>We can also add a “window” to that map on any Markdown document by using an <code class="language-plaintext highlighter-rouge">&lt;iframe&gt;</code>.</p>
+
+<p>For instance this: <code class="language-plaintext highlighter-rouge">&lt;iframe src="../data/oim-map.html" height="500"&gt;&lt;/iframe&gt;</code></p>
+
+<p>Will give you this:</p>
+
+<iframe src="../data/oim-map.html" height="500" width="100%"></iframe>
         
 
         
