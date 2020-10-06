@@ -1556,4 +1556,6 @@ code { font-family: "SFMono-Regular", Menlo, Consolas, Monospace; font-size: 14p
 
 th, td { font-size: 12px !important; min-width: 120px; padding-top: 0.5rem; padding-right: 0.75rem; padding-bottom: 0.5rem; padding-left: 0.75rem; background-color: #fff; border-bottom: 1px solid rgba(238, 235, 238, 0.5); border-left: 1px solid #eeebee; }
 
+pre { overflow: auto; }
+
 /*# sourceMappingURL=just-the-docs-dark.css.map */

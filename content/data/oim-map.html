@@ -15,7 +15,7 @@
     <div id="mapid" style="height: 100%;"></div>
     <script>
 
-      var map = L.map('mapid');
+      var map = L.map('mapid', {scrollWheelZoom: false});
 
       var Stadia_OSMBright = L.tileLayer('https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png', {
           maxZoom: 20,
@@ -30,7 +30,8 @@
         "<br><b>Edition:</b> " + feature.properties.edition +
         "<br><b>Date:</b> " + feature.properties.datePub +
         "<br><b>Scale:</b> " + feature.properties.scale +
-        "<br><b>Institution:</b> " + feature.properties.inst + "</p>");}
+        "<br><b>Institution:</b> " + feature.properties.inst +
+        "<br><b><a href=" + feature.properties.websiteUrl + ">Link</a></b></p>");}
 
     </script>
   </body>
