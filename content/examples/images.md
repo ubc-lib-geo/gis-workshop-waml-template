@@ -53,7 +53,8 @@ Want to put a gif in there? No problem!
 
 ![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif)
 
-_Note: "gif" is pronounced with a hard "g"_
+"gif" is pronounced with a hard "g"
+{: .note}
 
 ___
 
