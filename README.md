@@ -1,6 +1,6 @@
 # GIS workshop template for WAML 2020
 
-This GitHub repository holds a template for a Jeckyll site hosted on GitHub pages. You can find the public facing side of the template [here](https://ubc-lib-geo.github.io/gis-workshop-waml-template/).
+This GitHub repository holds a template for a Jekyll site hosted on GitHub pages. You can find the public facing side of the template [here](https://ubc-lib-geo.github.io/gis-workshop-waml-template/).
 
 Want to use this template? Great! Just fork it and follow these [instructions for activating it via Pages](https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/handson/fork-repo.html).
 
