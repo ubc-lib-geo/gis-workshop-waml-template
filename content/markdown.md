@@ -22,7 +22,7 @@ This is just scraping the surface of what capable with Markdown, as you can see 
 
 Let's try out an online editor to practice a couple of common Markdown markups.
 
-### *1*{: .circle .circle-blue} Go to [markdownlivepreview.com](https://markdownlivepreview.com/)
+### *1*{: .circle .circle-blue} Go to <a href='https://markdownlivepreview.com/' target='_blank'>markdownlivepreview.com</a>
 
 Clicking on the Markdown editor link will take you to web page with document displayed in two windows. On the left is the plain text Markdown, and on the right is the styled version rendered online. You can edit the text on the left, and changes will appear on the right.
 
