@@ -32,8 +32,6 @@ ____
 
 ## PowerPoint
 
-Upload a PowerPoint file to an Office 365 account. Then, open the file in Office 365 and go to File, Share, and Embed for the iframe code.
+Start by uploading a PowerPoint file to an Office 365 account... then give up.
 
-`<iframe src="https://o365coloradoedu-my.sharepoint.com/personal/phwh9568_colorado_edu/_layouts/15/Doc.aspx?sourcedoc={6824af6f-e820-42a3-9aec-4fd903aca9e4}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="720px" height="480px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>`
-
-<iframe src="https://o365coloradoedu-my.sharepoint.com/personal/phwh9568_colorado_edu/_layouts/15/Doc.aspx?sourcedoc={6824af6f-e820-42a3-9aec-4fd903aca9e4}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="720px" height="480px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+It's extremely painful—just don't.
