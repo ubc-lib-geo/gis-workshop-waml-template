@@ -1,4 +1,10 @@
-# GIS workshop template for WAML 2020
+# My Best Workshop EVAAA!
+
+Here's a snappy readme file for this workshop you're about to love! 
+
+I am the BOMB and Evan T smells funky.
+
+[Here's a link to something cool](https://www.coolthing.cool.yeah)
 
 This GitHub repository holds a template for a Jekyll site hosted on GitHub pages. You can find the public facing side of the template [here](https://ubc-lib-geo.github.io/gis-workshop-waml-template/).
 
