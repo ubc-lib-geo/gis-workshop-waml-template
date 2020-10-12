@@ -204,34 +204,34 @@
     "relUrl": "/content/handson/new-page.html"
   },"34": {
     "doc": "Next Steps",
-    "title": "Next steps for learning more",
+    "title": "Next steps",
     "content": " ",
-    "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#next-steps-for-learning-more",
-    "relUrl": "/content/next-steps.html#next-steps-for-learning-more"
+    "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#next-steps",
+    "relUrl": "/content/next-steps.html#next-steps"
   },"35": {
     "doc": "Next Steps",
     "title": "Cloning and working locally",
-    "content": " ",
+    "content": "Working locally has many benefits, including more flexibility to break and fix things before the changes are live. This will require a Unix shell and Git installed on your computer. | For Mac, you can use the default shell app Terminal, and install Git using these instructions. | For Windows, you can install Git for Windows. | . If you want to download this whole workshop and work locally, git clone the repo using these directions from Git Guides. To serve this site on a local server, you will need to set up Jekyll on your local machine. Instructions for Windows and Mac can be found using the Jekyll installation docs. You’ll also need a good source-code editor for editing your files, and a Unix shell for communicating with GitHub. We recommend Atom.io, Sublime Text, or Notepad++. If you’d like to take some beginner-level short workshops to get you up to speed, you can take these from UBC Library’s Research Commons: . | Intro to Git and GitHub | Intro to the Unix Shell | Intro to Jekyll | . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#cloning-and-working-locally",
     "relUrl": "/content/next-steps.html#cloning-and-working-locally"
   },"36": {
     "doc": "Next Steps",
     "title": "Using a different theme",
-    "content": " ",
+    "content": "While this workshop is based on the Just the Docs Jekyll theme, you can choose other themes when publishing other project or workshop sites. Themes influence the ‘look and feel’ of the content you create, most of which are hugely customizable. The easiest way to choose a theme is by using the default Theme Chooser in GitHub. There are also many other themes to choose from which exist on GitHub or elsewhere. For example here are lists from free themes from jekyllthemes.io and from jekyllthemes.org. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#using-a-different-theme",
     "relUrl": "/content/next-steps.html#using-a-different-theme"
   },"37": {
     "doc": "Next Steps",
-    "title": "Creating a Jekyll site from scratch",
-    "content": " ",
-    "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#creating-a-jekyll-site-from-scratch",
-    "relUrl": "/content/next-steps.html#creating-a-jekyll-site-from-scratch"
-  },"38": {
-    "doc": "Next Steps",
     "title": "Deleting a GitHub repository",
-    "content": " ",
+    "content": "If you want to delete the this forked workshop repository from your own Github account, you can do that using these instructions – our feelings wont be hurt! . This is a public repository, so your fork cannot be deleted by us (the origin repository). Likewise, you deleting your own fork will not affect ours. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#deleting-a-github-repository",
     "relUrl": "/content/next-steps.html#deleting-a-github-repository"
+  },"38": {
+    "doc": "Next Steps",
+    "title": "Adding a custom domain to your site",
+    "content": "If you want to use GitHub pages to host a project or personal site with a custom domain, you can do that using these instructions. Note that your particular domain registrant will have specific instructions for changing your Domain Name Server records on their platform. ",
+    "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#adding-a-custom-domain-to-your-site",
+    "relUrl": "/content/next-steps.html#adding-a-custom-domain-to-your-site"
   },"39": {
     "doc": "Next Steps",
     "title": "Next Steps",
