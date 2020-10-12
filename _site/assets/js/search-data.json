@@ -1,15 +1,15 @@
 {"0": {
     "doc": "Acknowledgements",
     "title": "Acknowledgements",
-    "content": "This template uses Just The Docs Jekyll theme. ",
+    "content": "This template uses Just The Docs Jekyll theme. Heavily influenced and inspired by the Stanford Geospatial Center, which is one of the O.G. GitHub contributors for GIS workshops and tutorials. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/acknowledgements.html",
     "relUrl": "/content/acknowledgements.html"
   },"1": {
     "doc": "Acknowledgements",
-    "title": "GitHub users who indirectly contributed to this workshop",
+    "title": "Other GitHub users who indirectly contributed to this workshop",
     "content": ". | marquesarthur created some cool step-by-step styling | dohliam provided us some good language throughout the workshop | UBC Library Research Commons for inspiring the theme-based workshop approach | . ",
-    "url": "http://localhost:4000/gis-workshop-waml-template/content/acknowledgements.html#github-users-who-indirectly-contributed-to-this-workshop",
-    "relUrl": "/content/acknowledgements.html#github-users-who-indirectly-contributed-to-this-workshop"
+    "url": "http://localhost:4000/gis-workshop-waml-template/content/acknowledgements.html#other-github-users-who-indirectly-contributed-to-this-workshop",
+    "relUrl": "/content/acknowledgements.html#other-github-users-who-indirectly-contributed-to-this-workshop"
   },"2": {
     "doc": "Add Some Text",
     "title": "Add Some Text",
@@ -79,7 +79,7 @@
   },"13": {
     "doc": "Example Pages",
     "title": "Example pages",
-    "content": " ",
+    "content": "We’ve assembled some example pages that show some ways to display information that might be used in GIS workshops. The table of contents is below. Example full workshops . If you’d like to see some examples of full GIS workshops using a similarly based theme here are some examples from UBC Library: . Understanding Spatial Data: Map Projections . Intro to ArcGIS Online and StoryMaps . Spatial Network Analysis with QGIS . Intro to Spatial Data Analysis with R . Geocoding and Web Mapping with Python . Geospatial Analysis and Visualization with Python . Web mapping with LeafletJS . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples.html#example-pages",
     "relUrl": "/content/examples.html#example-pages"
   },"14": {
