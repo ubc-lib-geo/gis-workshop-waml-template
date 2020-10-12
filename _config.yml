@@ -37,7 +37,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-footer_content: "[View this workshop in GitHub](https://github.com/ubc-lib-geo/gis-workshop-waml-template)"
+footer_content: [View this workshop in GitHub](https://github.com/ubc-lib-geo/gis-workshop-waml-template)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
