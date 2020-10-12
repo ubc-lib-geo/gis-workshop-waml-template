@@ -1,346 +1,352 @@
 {"0": {
     "doc": "Acknowledgements",
     "title": "Acknowledgements",
-    "content": " ",
+    "content": "This template uses Just The Docs Jekyll theme. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/acknowledgements.html",
     "relUrl": "/content/acknowledgements.html"
   },"1": {
+    "doc": "Acknowledgements",
+    "title": "GitHub users who indirectly contributed to this workshop",
+    "content": "marquesarthur created some cool step-by-step styling dohliam provided us some good language throughout the workshop . ",
+    "url": "http://localhost:4000/gis-workshop-waml-template/content/acknowledgements.html#github-users-who-indirectly-contributed-to-this-workshop",
+    "relUrl": "/content/acknowledgements.html#github-users-who-indirectly-contributed-to-this-workshop"
+  },"2": {
     "doc": "Add Some Text",
     "title": "Add Some Text",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/handson/add-text.html",
     "relUrl": "/content/handson/add-text.html"
-  },"2": {
+  },"3": {
     "doc": "ArcGIS Online",
     "title": "Embedding ArcGIS Online Content",
     "content": "Here’s how to add content from ArcGIS online into a Markdown file . Basic Map . We’ll start with a basic map. Once you’ve saved any map in ArcGIS Online, you can get it’s embed code by clicking Share. Because you can add HTML directly to Markdown, just paste the code provided by AGOL directly into the Markdown file: . &lt;style&gt;.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}&lt;/style&gt;&lt;div class=\"embed-container\"&gt;&lt;iframe width=\"500\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" title=\"CU Aerial Photo Collection (final)\" src=\"//ucboulder.maps.arcgis.com/apps/Embed/index.html?webmap=68fe25f1df2149878fa88e15a4044d52&amp;extent=-108.1261,38.2881,-101.4079,41.3297&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;disable_scroll=true&amp;theme=light\"&gt;&lt;/iframe&gt;&lt;/div&gt; . Embedding an ArcGIS Web App . ArcGIS Online doesn’t always provide embed code for Web Apps, but no matter! Just use the same embed code from above but replace everything after src= and before &lt;/iframe&gt; with the url for the Web App: . &lt;style&gt;.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}&lt;/style&gt;&lt;div class=\"embed-container\"&gt;&lt;iframe width=\"500\" height=\"400\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" title=\"CU Aerial Photo Collection (final)\" src=\"https://ucboulder.maps.arcgis.com/apps/webappviewer/index.html?id=7ef03caa3cd848139ce0e9176da9b7e8\"&gt;&lt;/iframe&gt;&lt;/div&gt; . Note: this could take some formatting tweaks to get right! . Embedding a StoryMap . Want to embed a Story Map? Same exact procedure. Replace everything after src= and before &lt;/iframe&gt; with the url for the Story Map: . &lt;style&gt;.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}&lt;/style&gt;&lt;div class=\"embed-container\"&gt;&lt;iframe width=\"500\" height=\"400\" frameborder=\"0\" scrolling=\"yes\" marginheight=\"0\" marginwidth=\"0\" title=\"CU Aerial Photo Collection (final)\" src=\"https://storymaps.arcgis.com/stories/3c38d9c4e2844e25a020eb6bade919b9\"&gt;&lt;/iframe&gt;&lt;/div&gt; . *Note: if you want to enable scrolling, you’ll need to set the following: scrolling=\"yes\". This is in the iframe code. Presto! . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/agol-embed.html#embedding-arcgis-online-content",
     "relUrl": "/content/examples/agol-embed.html#embedding-arcgis-online-content"
-  },"3": {
+  },"4": {
     "doc": "ArcGIS Online",
     "title": "ArcGIS Online",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/agol-embed.html",
     "relUrl": "/content/examples/agol-embed.html"
-  },"4": {
+  },"5": {
     "doc": "Digital Collections",
     "title": "Embedding from your digital collections",
     "content": "When adding an item from a digital collection, the best option is to look for an embed code option for the item you would like to add to your markdown page. __ . From Luna: . Use the embed link built into Luna. Tip: maximize the image first then use the embed code to avoid side bars/menus. Here is an example from Stanford’s digital repository: . For this example, I visited this map of Bodega Bay, CA, clicked the Share button, chose Embed, and copied and pasted the embed code directly into my markdown document. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/digital-collections.html#embedding-from-your-digital-collections",
     "relUrl": "/content/examples/digital-collections.html#embedding-from-your-digital-collections"
-  },"5": {
+  },"6": {
     "doc": "Digital Collections",
     "title": "Digital Collections",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/digital-collections.html",
     "relUrl": "/content/examples/digital-collections.html"
-  },"6": {
+  },"7": {
     "doc": "Data Downloads",
     "title": "Data downloads",
     "content": "GitHub.com allows you to upload data files to your repositories. While the platform works best with text-based files, you can still upload .zipped Shapefiles or images and store them too. Just be aware that GitHub recommends keeping your repos less than 1GB in total file size. Since our beloved .geojson is text-based, it renders really well in the GitHub UI – like this geojson of UBC’s buildings. However, if you want someone to download the file in your workshop, you’ll need to provide a link. Best practice is to transfer your data files as one (or a minimal) zipped package of content. This way you can preserve a directory structure and avoid losing any auxiliary files. The downside is that GitHub won’t render them in the browser (╯°□°)╯︵ ┻━┻ . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/download-data.html#data-downloads",
     "relUrl": "/content/examples/download-data.html#data-downloads"
-  },"7": {
+  },"8": {
     "doc": "Data Downloads",
     "title": "Linking your data for download",
     "content": "To be able to link your data, you’ll just need the path from the page you’re providing the link to the file itself. This . [Download Data](../data/us-national-parks.geojson) . Will provide a link like this: . Download Data . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/download-data.html#linking-your-data-for-download",
     "relUrl": "/content/examples/download-data.html#linking-your-data-for-download"
-  },"8": {
+  },"9": {
     "doc": "Data Downloads",
     "title": "Adding a button",
     "content": "Maybe you want that link to look more apparent?? Well, why not try a button! . [Download Data](../data/us-national-parks.geojson){: .btn .btn-blue } . Looks like: . Download Data . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/download-data.html#adding-a-button",
     "relUrl": "/content/examples/download-data.html#adding-a-button"
-  },"9": {
+  },"10": {
     "doc": "Data Downloads",
     "title": "Adding a .pdf",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/download-data.html#adding-a-pdf",
     "relUrl": "/content/examples/download-data.html#adding-a-pdf"
-  },"10": {
+  },"11": {
     "doc": "Data Downloads",
     "title": "Data Downloads",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/download-data.html",
     "relUrl": "/content/examples/download-data.html"
-  },"11": {
+  },"12": {
     "doc": "Edit Your README",
     "title": "Edit Your README",
     "content": "First we’re going to make a few quick edits to your new repository’s README file. 1 In your repository, double-click on README.md. This will open up a page that just shows your README.md file. 2 Now double click the pencil icon to edit this markdown file. Now you will see simple editing interface. 3 Make some edits to your README.md file. This is easy, just start typing in this editing window. 4 When you’re done editing, scroll down and enter a commit message, then click Commit changes. All done! Now head back to your repo’s home page to view the updated README. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/handson/edit-readme.html",
     "relUrl": "/content/handson/edit-readme.html"
-  },"12": {
+  },"13": {
     "doc": "Example Pages",
     "title": "Example pages",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples.html#example-pages",
     "relUrl": "/content/examples.html#example-pages"
-  },"13": {
+  },"14": {
     "doc": "Example Pages",
     "title": "Example Pages",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples.html",
     "relUrl": "/content/examples.html"
-  },"14": {
+  },"15": {
     "doc": "Fork This Workshop",
     "title": "Fork this workshop template",
     "content": "In this workshop we’re going to duplicate this same workshop to your own GitHub account, then make some edits together. Can tinker and reuse this template anytime on your own account. 1 Go to this workshop’s GitHub repository . 2 Click on the option to Fork the repository . You’ll see an option to Fork at the top right of your screen. GitHub should pause for a moment while it copies the files from this repo to yours. When it’s finished, you’ll see a note that the repo has been “forked from ubc-lib-geo/gis-workshop-waml-template” in the top left. You should also see your new repository which contains the following files and directories: . ├── Rakefile ├── _config.yml ├── _includes ├── _layouts ├── _sass ├── _site ├── assets ├── bin ├── content ├── index.md ├── README.md └── lib . In this workshop we’re only going to be looking at a couple of these including the _config.yml file, the README.txt file, and the files inside the content folder. 3 Edit your _config.yml . We will need to publish this repository as a “GitHub Page”, so that it’s live at [your GitHub username].github.io. Right now it’s configured to appear at ubc-lib-geo.github.io. Before we publish, we’ll need to make some edits to our main site configuration file, ‘_config.yml’. Step 1 . Click on the _config.yml file in your list of files . Step 2 . Select the edit file tool on the top left . Step 3 . Scroll down to line 28 and add your base hostname . You will want to make sure https://ubc-lib-geo.github.io is changed to https://[YOUR GITHUB USERNAME].github.io . Step 4 . Add a commit message and save . Add something brief to your commit message – you can literally recycle the provided “Updated _config.yml” language – then press Commit changes. 4 Go to your repository’s Settings menu . We’re almost ready to publish our workshop site! We can do that in our site’s Settings which is found by clicking the top right tab. 5 Publish your workshop site . Scroll down to the settings for GitHub Pages (almost to the bottom (Danger Zone!)). Under Source select your only branch (either main or master). Your site will take a moment (up to a couple of minutes) to build and propagate, but should soon be available at https://[YOUR GITHUB USERNAME].github.io/gis-workshop-waml-template/ . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/handson/fork-repo.html#fork-this-workshop-template",
     "relUrl": "/content/handson/fork-repo.html#fork-this-workshop-template"
-  },"15": {
+  },"16": {
     "doc": "Fork This Workshop",
     "title": "Fork This Workshop",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/handson/fork-repo.html",
     "relUrl": "/content/handson/fork-repo.html"
-  },"16": {
+  },"17": {
     "doc": "Glossary",
     "title": "Glossary",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/glossary.html",
     "relUrl": "/content/glossary.html"
-  },"17": {
+  },"18": {
     "doc": "Glossary",
     "title": "General:",
     "content": "Command line – (or Terminal) An interface for entering textual commands on your computer. On Mac OS, this is known as the Terminal and is found in the Applications/Utilities directory. On Windows, this is known as the Command Prompt and can be found under Start&gt;Windows System. Git Bash is also a popular command line interface. Git – Git is a version control software. Many people use Git from the command line, but there is also a desktop GUI interface. Git Repository – A Git repository is essentially an instance of Git version control running in a file directory on your computer. You create a Git repository on your computer by either cloning a repository from GitHub, or by initializing a new repository in a directory (folder) on your computer. On your own computer, this is called a “local repository.” On GitHub, this is referred to as a “remote repository.” See Git Basics. GitHub – (or GitHub.com) GitHub is a free(mium) website for hosting remote Git repositories. It is primarily used for code. GitHub facilitates collaboration by providing access control, task management, bug tracking, and more for all of it’s project repositories. GitHub Pages – GitHub Pages is a built-in function of GitHub that converts a repository into a website. Pages is a very simple method for creating static webpages. Main/Master – The primary repository for a project on GitHub. Formerly named “master”, this was updated to “main” October 1 2020. (Many repositories will still use “master” until updated by their owners.) . Fork – A fork is a remote copy of a GitHub repository. Forking a repository permits others to make changes to a project without modifying the main/master branch of the project. Once forked and modified, changes can be merged with the main/master by way of a Pull Request. Pull Request – A method for suggesting changes to content stored in a GitHub repository. Someone wishing to make a change to a repository can fork the main repository, modify a file(s), and submit a pull request that will be reviewed by the main repository’s owner. If accepted, the changes will be merged with the main repository. Jekyll – Jekyll is a static site generator used for creating a variety of online content. GitHub Pages relies on Jekyll behind the scenes. The site you’re looking at right now was created using Jekyll. Markdown – Markdown is a super-simple markup language. Markdown is popular for creating documentation and readme files. When used in tandem with Jekyll templates, it can be used to generate static web pages. This page was created in Markdown. Ruby – Ruby is an open-source programming language, and is used as a framework for Jekyll. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/glossary.html#general",
     "relUrl": "/content/glossary.html#general"
-  },"18": {
+  },"19": {
     "doc": "Glossary",
     "title": "Git Commands:",
     "content": "Use these on your local terminal. Note that these are just a few of the most common basic commands. See Git documentation. Init (command) - git init. Use init to initiate a new repository within a directory (folder) on your computer. Add (command) – git add myfile.txt. Add is the first step in adding a new file or a modified file into a Git repository. The Add command adds new/modified files to a staging area. Commit (command) – git commit -m \"I made some edits\". Commit is the second step in adding a new/modified file to the Git repository. Commit moves new/modified files from the staging area to the repository. You must include a message following the -m flag. Be sure to make your commit message descriptive in case you need it later. Clone (command) – git clone https://github.com/user/repo-name Make a copy of a remote repository from GitHub.com on your local computer. This is one method of creating a connection between a local and remote repository that you can use to push or pull changes. Pull (command) – git pull origin master Use this to pull updates from the remote repository down to your local copy. Push (command) – git push origin master Use this to push updates made to your local repository to the remote repository. Status (command) – git status Check if you have any un-added/committed changes to your local repository. Log (command) – git log See past commit history including comments and hash ID of each commit. q to exit Log interface. Use git log --oneline for a condensed log. Revert (command) – git revert [hash id] Use this to revert to an earlier commit. Use the Log command to find previous commits’ hash IDs. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/glossary.html#git-commands",
     "relUrl": "/content/glossary.html#git-commands"
-  },"19": {
+  },"20": {
     "doc": "Hands On",
     "title": "Hands On Activities",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/hands-on.html#hands-on-activities",
     "relUrl": "/content/hands-on.html#hands-on-activities"
-  },"20": {
+  },"21": {
     "doc": "Hands On",
     "title": "Hands On",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/hands-on.html",
     "relUrl": "/content/hands-on.html"
-  },"21": {
+  },"22": {
     "doc": "Images",
     "title": "Adding images to your page",
     "content": "Adding an image is super easy! Here are a few methods . View the source Markdown for this page . Add an image from the web: . Start an in-line link with an exclamation point then place the alt text in the brackets followed by the image link in the parentheses: . ![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg) . You can also add images “reference style.” This is handy if you don’t want to clutter up your Markdown. You can just place the references at the bottom of the page. It goes like this: . ![Point Sublime][Sublime] [Sublime]: http://www.waml.org/groundwork-master/images/grndcnyn.jpg . Nice job! . Add an image from your directory: . You can also add images from a file directory. If you’re using GitHub Pages, that means you would want a folder where your content or images live in your GitHub repository. The syntax is the same, except replace the link with the path to the image: . ![Steezy WAML Logo](../img/WAML_sticker_stylized_serif.png) . Sweet! . Add a different format: . Want to put a gif in there? No problem! . ![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif) . “gif” is pronounced with a hard “g” . Link an image: . To link an image, you just need to embed the image syntax within the syntax for a hyperlink: . Here’s a regular link: . [WAML Conference 2020](http://www.waml.org/conf) . WAML Conference 2020 . Here’s a linked image: . [![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf) . Click Me! . So easy, right?! . Need to get extra fancy? . You can also add html directly to Markdown. Say you wanted to change the size of an image, for example. &lt;img src='../img/WAML_sticker_stylized_serif.png' width='250' alt='WAML sticker'&gt; . Aren’t you so fancy!! . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/images.html#adding-images-to-your-page",
     "relUrl": "/content/examples/images.html#adding-images-to-your-page"
-  },"22": {
+  },"23": {
     "doc": "Images",
     "title": "Images",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/images.html",
     "relUrl": "/content/examples/images.html"
-  },"23": {
+  },"24": {
     "doc": "Home",
     "title": "A Jekyll template for GIS workshops",
     "content": "WAML 2020 Preconference Workshop . Presenters . Evan Thornberry GIS Librarian University of British Columbia Library evan.thornberry@ubc.ca . Phil White Earth, Environment &amp; Geospatial Librarian University of Colorado Boulder Libraries philip.white@colorado.edu . | A GitHub.com account. If you don’t already have a GitHub.com account, you can create one here. Take this short video Getting Started with GitHub if you’re brand new and want to get a high-level overview of the platform. | Comfortable working with code/syntax. | . Goal of this workshop . Our goal is to introduce you to how we use GitHub.com for creating and delivering GIS workshops online, so that you can consider using them in your own work. There will be a hands-on section where we will fork (“copy”) an existing workshop repo to your own GitHub account, publish the repo with GitHub Pages, and to make some edits. You may not feel totally comfortable using GitHub – this is okay. As with any skill, using Jekyll and GitHub Pages takes practice. In this workshop, we want you to understand and get familiar with some of the workflows and terminology so that you are equipped to experiment on your own. Schedule . | Time | Content | . | 0:00 | Introduction | . | 0:10 | Land acknowledgement | . | 0:20 | Demystifying GitHub for workshops (presentation) | . | 0:50 | Break | . | 1:00 | Forking the workshop template (hands on) | . | 1:15 | A look under the hood | . | 1:30 | Create your first page (hands on) | . | 1:40 | Add it to the Navigation (hands on) | . | 1:50 | Q&amp;A | . Actual schedule may vary depending on group needs . You can view the GitHub repository for this Jekyll site at: https://github.com/ubc-lib-geo/gis-workshop-waml-template . Workshop Slides . Click on the slides then press the F key for full screen . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/#a-jekyll-template-for-gis-workshops",
     "relUrl": "/#a-jekyll-template-for-gis-workshops"
-  },"24": {
+  },"25": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/",
     "relUrl": "/"
-  },"25": {
+  },"26": {
     "doc": "Insert an Image",
     "title": "Insert an Image",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/handson/insert-image.html",
     "relUrl": "/content/handson/insert-image.html"
-  },"26": {
+  },"27": {
     "doc": "Land Acknowledgement",
     "title": "Land acknowledgement",
     "content": "Before beginning the workshop, we’d like to acknowledge the indigenous lands where we are located. Phil is located on the territories of the Núu-agha-tʉvʉ-pʉ̱ (Ute), Cheyenne, Arapahoe, and Očhéthi Šakówiŋ (Sioux) peoples. 48 contemporary tribal nations are historically tied to the lands that make up Colorado. Evan is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Stz’uminus, S’ólh Téméxw (Stó:lō), Skwxwú7mesh-ulh Temíx̱w (Squamish), and Coast Salish peoples. Since all of you are spread around the continent, let’s take a moment to explore native-lands.ca so that you can visualize the indigenous territories, languages, and treaties in your area. We feel it is especially important for those of us who work with spatial and geographic information to understand the diverse histories of the lands we find ourselves. We ask that as you participate in WAML 2020, take a moment now and then to think about indigenous histories, territories, and knowledge systems in the context of of GIS, map-making, governance, and other topics that come up in conference sessions and discussions. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/land-acknowledgement.html#land-acknowledgement",
     "relUrl": "/content/land-acknowledgement.html#land-acknowledgement"
-  },"27": {
+  },"28": {
     "doc": "Land Acknowledgement",
     "title": "Land Acknowledgement",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/land-acknowledgement.html",
     "relUrl": "/content/land-acknowledgement.html"
-  },"28": {
+  },"29": {
     "doc": "Markdown Practice",
     "title": "Markdown: What is it?",
     "content": "Markdown is a very simple markup language for formatting plain text. You may have seen it or used it in discussion forums (think Reddit) to style text in certain ways – like in bold or italics or both. It’s also often used in GitHub for assembling nicely looking README files, but it’s also used for the content that makes up this site. GitHub Pages (and Jekyll) reads Markdown files (usually with the file extension .md or .markdown) and converts them to valid HTML. If you’re old-school and prefer writing in HTML, you can still do that too. You can also combine HTML with your Markdown to add things like &lt;iframe&gt; and custom scripts in the same Markdown document. Markdown syntax is fairly straightforward and somewhat easy to remember. It uses common characters like asterisks, dashes, and the number symbol (hashtag? pound?) mixed with spaces to stylize text. For instance text surrounded by two asterisks makes the text italicized. *Hello!* = Hello! . We can also make the text bold. **HOWDY** = HOWDY . This is just scraping the surface of what capable with Markdown, as you can see from GitHub user obebm503’s Markdown Kitchen Sink. For those of you who use HTML, you can think of Markdown as a super simplified version of that – you can add images, links, tables, quotes, and other things with very simple Markdown syntax. Let’s try out an online editor to practice a couple of common Markdown markups. 1 Go to markdownlivepreview.com . Clicking on the Markdown editor link will take you to web page with document displayed in two windows. On the left is the plain text Markdown, and on the right is the styled version rendered online. You can edit the text on the left, and changes will appear on the right. 2 Change the title of the document . The first line of this document is a heading – H1 to be specific. How do I know this? Because there is 1 “number sign” and a space before the rest of the text. Any line of text after a # will be rendered as H1. On the left, change # Markdown syntax guide to # [your name]'s new document . 3 Add a link . Adding links to your documents is very easy. All you need is your preferred link text and the URL. The Markdown syntax is: [your preferred text](the URL) . Add this link to the Perry-Castañeda Library Map Collection somewhere in the document: . [Perry-Castañeda Library Map Collection](http://legacy.lib.utexas.edu/maps/) . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/markdown.html#markdown-what-is-it",
     "relUrl": "/content/markdown.html#markdown-what-is-it"
-  },"29": {
+  },"30": {
     "doc": "Markdown Practice",
     "title": "Markdown Practice",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/markdown.html",
     "relUrl": "/content/markdown.html"
-  },"30": {
+  },"31": {
     "doc": "Change Navigation",
     "title": "Change the Navigation Order",
     "content": "For this we’re going to alter the order of pages in our navigation. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/handson/navigation.html#change-the-navigation-order",
     "relUrl": "/content/handson/navigation.html#change-the-navigation-order"
-  },"31": {
+  },"32": {
     "doc": "Change Navigation",
     "title": "Change Navigation",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/handson/navigation.html",
     "relUrl": "/content/handson/navigation.html"
-  },"32": {
+  },"33": {
     "doc": "Add a New Page",
     "title": "Add a New Page",
     "content": "Now that you have your workshop repository live and ready to edit, you might want to add a new page. GitHub.com allows us to add a new file. 1 Nagivate to your content folder . Just click on the title of the folder in GitHub. That will take you to a new page where you can see all of the content that makes up the site. We created this folder to store all of our pages, images, data, etc. – our own preference for keeping things relatively tidy. But a side-effect of additional folder levels is that it elongates the URL of pages inside them. 2 Add a file to this folder . You can add files by clicking the Add file button, and selecting Create new file from the dropdown. 3 Make a new Markdown file . We can add any type of text-based file we want, but since our goal here is to create a new page for our site, let’s make it a Markdown file. Step 1 . Name your new file . Name your file favorite-map.md . Step 2 . Add your Front Matter . Front Matter is needed to convert this file to a new web page. It’s used by Jekyll to add style and other settings to your page. We’ll get to front matter more later… . Add this to the body of the file, using lines 1 to 5: . --- layout: default title: Your New Page's Title nav_order: 11 --- . You should have something that looks like this: . 4 Commit your new file . Now we’ll add a new “commit” the new file – this is Git for adding a description of the changes you made, then saving to the repository. You should always be as concise and descriptive as possible when adding a commit message. It’s very easy to add inadequate commit messages, like “added some content” or “made a small change”, but it’s good practice to make commit messages meaningful. However, adding a file is pretty simple, so for this exercise add a commit message that is something like: . Then, press the green button to commit your file! . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/handson/new-page.html",
     "relUrl": "/content/handson/new-page.html"
-  },"33": {
+  },"34": {
     "doc": "Next Steps",
     "title": "Next steps for learning more",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#next-steps-for-learning-more",
     "relUrl": "/content/next-steps.html#next-steps-for-learning-more"
-  },"34": {
+  },"35": {
     "doc": "Next Steps",
     "title": "Cloning and working locally",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#cloning-and-working-locally",
     "relUrl": "/content/next-steps.html#cloning-and-working-locally"
-  },"35": {
+  },"36": {
     "doc": "Next Steps",
     "title": "Using a different theme",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#using-a-different-theme",
     "relUrl": "/content/next-steps.html#using-a-different-theme"
-  },"36": {
+  },"37": {
     "doc": "Next Steps",
     "title": "Creating a Jekyll site from scratch",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#creating-a-jekyll-site-from-scratch",
     "relUrl": "/content/next-steps.html#creating-a-jekyll-site-from-scratch"
-  },"37": {
+  },"38": {
     "doc": "Next Steps",
     "title": "Deleting a GitHub repository",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html#deleting-a-github-repository",
     "relUrl": "/content/next-steps.html#deleting-a-github-repository"
-  },"38": {
+  },"39": {
     "doc": "Next Steps",
     "title": "Next Steps",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/next-steps.html",
     "relUrl": "/content/next-steps.html"
-  },"39": {
+  },"40": {
     "doc": "Web Maps",
     "title": "Adding an OpenIndexMap web map",
     "content": "You add web maps of just about any kind to your site, however it does require some extra files and customization. As a basic example, let’s demonstrate a web map powered by Leaflet.js which displays an index map in the OpenIndexMap (OIM) content format standard. In this case we’ve created 2 extra files called oim-index.js and oim-map.html – which are located in your sites content/data/: . ├── content │   ├── data │   │   ├── oim-index.js │   │   ├── oim-map.html │   │   └── ... oim-index.js . The oim-index.js file is a JavaScript file containing only one variable - the .geoJson-structured information for your (OIM) index map. In this case we’re using an index for a series of maps showing the forest cover of British Columbia in the 1950s, but you can swap .geoJson text for any OIM index you have. Your index map must have OIM standard fields or it wont work. oim-map.html . The oim-map.html file is your map document, which displays at full size. Here’s a direct link. We can also add a “window” to that map on any Markdown document by using an &lt;iframe&gt;. For instance this: &lt;iframe src=\"../data/oim-map.html\" height=\"500\"&gt;&lt;/iframe&gt; . Will give you this: . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/openindexmap.html#adding-an-openindexmap-web-map",
     "relUrl": "/content/examples/openindexmap.html#adding-an-openindexmap-web-map"
-  },"40": {
+  },"41": {
     "doc": "Web Maps",
     "title": "Web Maps",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/openindexmap.html",
     "relUrl": "/content/examples/openindexmap.html"
-  },"41": {
+  },"42": {
     "doc": "Participating Online",
     "title": "Participating online",
     "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/participating-online.html#participating-online",
     "relUrl": "/content/participating-online.html#participating-online"
-  },"42": {
+  },"43": {
     "doc": "Participating Online",
     "title": "Participants window",
     "content": "The Participants window lists everyone in the session. Click the icons at the bottom of the window to communicate with the instructors. Clicking an icon makes it appear next to your name in the participants list. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/participating-online.html#participants-window",
     "relUrl": "/content/participating-online.html#participants-window"
-  },"43": {
+  },"44": {
     "doc": "Participating Online",
     "title": "Chat window",
     "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/participating-online.html#chat-window",
     "relUrl": "/content/participating-online.html#chat-window"
-  },"44": {
+  },"45": {
     "doc": "Participating Online",
     "title": "Share your screen",
     "content": "In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/participating-online.html#share-your-screen",
     "relUrl": "/content/participating-online.html#share-your-screen"
-  },"45": {
+  },"46": {
     "doc": "Participating Online",
     "title": "Contribute to the Whiteboard",
     "content": "The Whiteboard is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click View options and select Annotate. This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/participating-online.html#contribute-to-the-whiteboard",
     "relUrl": "/content/participating-online.html#contribute-to-the-whiteboard"
-  },"46": {
+  },"47": {
     "doc": "Participating Online",
     "title": "Participating Online",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/participating-online.html",
     "relUrl": "/content/participating-online.html"
-  },"47": {
+  },"48": {
     "doc": "Adding Slides",
     "title": "Adding presentation slides",
     "content": "Adding slides to markdown page could not be easier! . Use an iframe and paste the URL to your slides after src= and before &lt;/iframe&gt; . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/slides.html#adding-presentation-slides",
     "relUrl": "/content/examples/slides.html#adding-presentation-slides"
-  },"48": {
+  },"49": {
     "doc": "Adding Slides",
     "title": "Reveal.js slides",
     "content": "Are you hosting Reveal.js slides on your GitHub Pages? Just paste the link into an iframe! . &lt;iframe width=\"720\" height=\"480\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" src=\"https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/slides/waml_github20\"&gt;&lt;/iframe&gt; . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/slides.html#revealjs-slides",
     "relUrl": "/content/examples/slides.html#revealjs-slides"
-  },"49": {
+  },"50": {
     "doc": "Adding Slides",
     "title": "Google slides",
     "content": "In Google Slides, go to File, Publish to Web, Embed and publish your slides. Copy the embed code then paste the code into your Markdown file: . &lt;iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vT5hKsfivsyGgfRjsl0nKCHasqOuuZ3Rdoqm_OwVwPAWEo8HYDwx4RHy8LlZgYi1MSELhhUwh8ID3vZ/embed?start=false&amp;loop=false&amp;delayms=3000\" frameborder=\"0\" width=\"720\" height=\"480\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"&gt;&lt;/iframe&gt; . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/slides.html#google-slides",
     "relUrl": "/content/examples/slides.html#google-slides"
-  },"50": {
+  },"51": {
     "doc": "Adding Slides",
     "title": "PowerPoint",
     "content": "Start by uploading a PowerPoint file to an Office 365 account… then give up. It’s extremely painful—just don’t. ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/slides.html#powerpoint",
     "relUrl": "/content/examples/slides.html#powerpoint"
-  },"51": {
+  },"52": {
     "doc": "Adding Slides",
     "title": "Adding Slides",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/slides.html",
     "relUrl": "/content/examples/slides.html"
-  },"52": {
+  },"53": {
     "doc": "Step-by-Step Instruction",
     "title": "Step-by-step instruction",
     "content": "Step-by-step instructions . Step 1 {: .label .label-step} Do this thing {: .step} Step 2 {: .label .label-step} Do this other thing {: .step} . Step 1 . Do this thing . Step 2 . Do this other thing . Circled numbers . This syntax… . *1*{: .circle .circle-blue} Number in normal text . …will look like this: . 1 Number in normal text . You can also use this in headers, lists and other markdown suported elements, e.g., . * *1*{: .circle .circle-blue} `.circle-blue` * *2*{: .circle .circle-red} `.circle-red` * *3*{: .circle .circle-yellow} `.circle-yellow` * *4*{: .circle .circle-green} `.circle-green` * *5*{: .circle .circle-purple} `.circle-purple` ## *2*{: .circle .circle-red} Number in h2 ### *10*{: .circle .circle-yellow} Number in h3 . …will look like this: . | 1 .circle-blue | 2 .circle-red | 3 .circle-yellow | 4 .circle-green | 5 .circle-purple | . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/step-by-step.html#step-by-step-instruction",
     "relUrl": "/content/examples/step-by-step.html#step-by-step-instruction"
-  },"53": {
+  },"54": {
     "doc": "Step-by-Step Instruction",
     "title": "2 Number in h2",
     "content": "10 Number in h3 . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/step-by-step.html#2-number-in-h2",
     "relUrl": "/content/examples/step-by-step.html#2-number-in-h2"
-  },"54": {
+  },"55": {
     "doc": "Step-by-Step Instruction",
     "title": "Step-by-Step Instruction",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/examples/step-by-step.html",
     "relUrl": "/content/examples/step-by-step.html"
-  },"55": {
+  },"56": {
     "doc": "UI Features",
     "title": "UI features",
     "content": " ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/ui-features.html#ui-features",
     "relUrl": "/content/ui-features.html#ui-features"
-  },"56": {
+  },"57": {
     "doc": "UI Features",
     "title": "Selected text formatting options",
     "content": "Below are selected formatting options that may be useful in in RC worskhop sites. Notes . Use this syntax… . Wash your hands frequently {: .note} . … to include a note that will look like this on the workshop website: . Wash your hands frequently . Warning . Don't step on the snails! {: .warn} . Don’t step on the snails! . Danger . Snails armed and dangerous {: .danger} . Snails armed and dangerous . Prerequisites. This synax… . - Basic slug identification - Comfortable in the woods {: .prereq} . …will look like this: . Something else here . | Basic slug identification | Comfortable in the woods | . Terminal input. Use this formatting to indicate that the participant should input text into the terminal or command line. This… . Input {: .label .label-green } ``` $ git status ``` . … will appear like this in the workshop website: . Input . $ git status . Terminal output. Shows the output resulting from an action. This syntax… . Output {: .label .label-yellow } ``` On branch master Your branch is up-to-date with 'origin/master'. nothing to commit, working tree clean ``` . …looks like this on the site: . Output . On branch master Your branch is up-to-date with 'origin/master'. nothing to commit, working tree clean . Dropdowns . You can use dropdowns to hide answers to questions. For example: . Who was the first U.S. president? George Washington. To create hidden content in a dropdown use this: . &lt;details&gt; &lt;summary&gt;This is the dropdown title&lt;/summary&gt; &lt;br&gt; This is the hidden dropdown content. &lt;/details&gt; . If you want it open by default: . &lt;details open&gt; &lt;summary&gt;This is the dropdown title&lt;/summary&gt; &lt;br&gt; This is the dropdown content that you can hide if you want to. &lt;/details&gt; . ",
     "url": "http://localhost:4000/gis-workshop-waml-template/content/ui-features.html#selected-text-formatting-options",
     "relUrl": "/content/ui-features.html#selected-text-formatting-options"
-  },"57": {
+  },"58": {
     "doc": "UI Features",
     "title": "UI Features",
     "content": " ",

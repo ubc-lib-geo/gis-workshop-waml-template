@@ -4,3 +4,10 @@ title: Acknowledgements
 nav_order: 10
 ---
 # Acknowledgements
+
+This template uses [Just The Docs](https://pmarsceill.github.io/just-the-docs/) Jekyll theme.
+
+## GitHub users who indirectly contributed to this workshop
+
+[marquesarthur](https://github.com/marquesarthur) created some cool step-by-step styling
+[dohliam](https://github.com/dohliam) provided us some good language throughout the workshop
