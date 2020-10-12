@@ -37,6 +37,7 @@ Edit your `fav-map.md` file by clicking on the edit file button:
 ![edit file](../img/edit-file.png)
 
 In the text area **below** your front matter, paste the following link text:
+
 `![My favorite map](img/fav-map.png)`
 
 ### *2*{: .circle .circle-blue} Commit your changes
