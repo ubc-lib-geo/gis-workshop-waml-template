@@ -49,11 +49,10 @@ You may not feel totally comfortable using GitHub – this is okay. As with any 
 
 _Actual schedule may vary depending on group needs_
 
+#### You can view the GitHub repository for this Jekyll site at: [https://github.com/ubc-lib-geo/gis-workshop-waml-template](https://github.com/ubc-lib-geo/gis-workshop-waml-template){:target="_blank"}
+
 ### Workshop Slides
 
 
 <iframe width="560" height="315" frameborder="0" marginheight="0" marginwidth="0" src="content/slides/waml_github20"></iframe>    
 *Click on the slides then press the F key for full screen*
-
-
-You can view the GitHub repository for this Jekyll site at: [https://github.com/ubc-lib-geo/gis-workshop-waml-template](https://github.com/ubc-lib-geo/gis-workshop-waml-template)
