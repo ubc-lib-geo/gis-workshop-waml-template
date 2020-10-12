@@ -58,9 +58,16 @@ You will want to make sure `https://ubc-lib-geo.github.io` is changed to `https:
 
 Step 4
 {: .label .label-step}
+Next, go to line 40 and update the footer.
+{: .step}
+In line 40, you'll want to replace `ubc-lib-geo` with your own username. The result should look like this:  
+`footer_content: <a href="https://github.com/your_username/gis-workshop-waml-template" target="_blank">View this workshop in GitHub</a>`  
+
+Step 5
+{: .label .label-step}
 Add a commit message and save
 {: .step}
-Add something brief to your commit message – you can literally recycle the provided "Updated _config.yml" language – then press **Commit changes**.
+Add something brief to your commit message – you can literally recycle the provided "Updated _config.yml" language – then press **Commit changes**.  
 
 ### *4*{: .circle .circle-blue} Go to your repository's Settings menu
 We're almost ready to publish our workshop site! We can do that in our site's **Settings** which is found by clicking the top right tab.
