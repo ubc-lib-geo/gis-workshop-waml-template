@@ -1,3 +1,6 @@
+// if you want to add your own OIM map geojson, replace the text after the '=' sign
+// it should have properly formatted fields for title, label, edition, datePub, scale, inst, and websiteUrl
+
 var oimIndex = {
 "type": "FeatureCollection",
 "name": "index-ifcsm",
