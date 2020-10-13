@@ -32,7 +32,8 @@ Our goal is to introduce you to how we use GitHub.com for creating and deliverin
 
 You may not feel totally comfortable using GitHub – this is okay. As with any skill, using Jekyll and GitHub Pages takes practice. In this workshop, we want you to understand and get familiar with some of the workflows and terminology so that you are equipped to experiment on your own.  
 
-#### You can view the GitHub repository for this Jekyll site at: [https://github.com/ubc-lib-geo/gis-workshop-waml-template](https://github.com/ubc-lib-geo/gis-workshop-waml-template){:target="_blank"}  
+### You can view the GitHub repository for this Jekyll site at:  
+[https://github.com/ubc-lib-geo/gis-workshop-waml-template](https://github.com/ubc-lib-geo/gis-workshop-waml-template){:target="_blank"}  
 
 ### Schedule
 
@@ -40,7 +41,7 @@ You may not feel totally comfortable using GitHub – this is okay. As with any 
 | --- | ---
 | 0:00 | Introductions
 | 0:05 | [Land acknowledgement](content/land-acknowledgement)
-| 0:10 | Demystifying GitHub (presentation)
+| 0:10 | [Demystifying GitHub](content/slides/waml_github20.html){:target="_blank"} (presentation)
 | 0:50 | Break
 | 1:00 | Forking the workshop template (hands on)
 | 1:10 | A look under the hood (hands on)
@@ -49,7 +50,7 @@ You may not feel totally comfortable using GitHub – this is okay. As with any 
 | 1:50 | Navigation (hands on)
 | 2:00 | Example Pages
 | 2:10 | Next Steps
-| 2:20 | Wrap Up/ Q&A
+| 2:15 | Wrap Up/ Q&A
 
 _Actual schedule may vary depending on group needs_  
 
