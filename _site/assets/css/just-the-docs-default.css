@@ -1707,4 +1707,6 @@ template { display: none; }
 /** Add the correct display in IE 10. */
 [hidden] { display: none; }
 
+img { border: 1.5px solid #eeebee; border-radius: 5px; padding: 5px; }
+
 /*# sourceMappingURL=just-the-docs-default.css.map */

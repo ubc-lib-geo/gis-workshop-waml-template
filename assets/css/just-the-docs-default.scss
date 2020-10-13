@@ -14,3 +14,9 @@
 @import "./custom/custom";
 
 @import "./vendor/normalize.scss/normalize.scss";
+
+img {
+border: 1.5px solid #eeebee;
+border-radius:5px;
+padding:5px;
+}
