@@ -40,6 +40,6 @@ Note that your particular domain registrant will have specific instructions for 
 {: .warn}
 
 ## Converting your .doc library to .md
-Love Markdown so much that you want to begin converting all your .docs to Jekyll sites? Here you go!
+Love this so much that you want to begin converting all your .docs to Jekyll sites? Here you go!
 
 [Word to Markdown Converter](https://word2md.com/)
