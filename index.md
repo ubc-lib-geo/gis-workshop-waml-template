@@ -11,7 +11,7 @@ ___
 ### Presenters
 
 Evan Thornberry <a href='https://github.com/ect123' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Handsome Devil
+Handsome Devil  
 GIS Librarian  
 University of British Columbia Library  
 [evan.thornberry@ubc.ca](mailto:evan.thornberry@ubc.ca)  
@@ -19,6 +19,7 @@ University of British Columbia Library
 
 
 Phil White <a href='https://github.com/outpw' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Tries Hard  
 Earth, Environment & Geospatial Librarian  
 University of Colorado Boulder Libraries  
 [philip.white@colorado.edu](mailto:philip.white@colorado.edu)
