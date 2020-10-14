@@ -4,8 +4,8 @@ title: Home
 nav_order: 1
 ---
 # A Jekyll template for GIS workshops
-### WAML 2020  Preconference Workshop
-
+### WAML 2020  Preconference Workshop  
+[bit.ly/waml20git](http://bit.ly/waml20git)  
 ___
 
 ### Presenters
