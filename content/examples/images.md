@@ -15,7 +15,9 @@ ___
 
 Start an in-line link with an exclamation point then place the alt text in the brackets followed by the image link in the parentheses:
 
-`![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)`
+```
+![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)
+```
 
 ![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)
 
@@ -37,7 +39,9 @@ ___
 
 You can also add images from a file directory. If you're using GitHub Pages, that means you would want a folder where your content or images live in your GitHub repository. The syntax is the same, except replace the link with the path to the image:
 
-`![Steezy WAML Logo](../img/WAML_sticker_stylized_serif.png)`
+```
+![Steezy WAML Logo](../img/WAML_sticker_stylized_serif.png)
+```
 
 ![Steezy WAML Logo](../img/WAML_sticker_stylized_serif.png)
 
@@ -49,7 +53,9 @@ ___
 
 Want to put a gif in there? No problem!
 
-`![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif)`
+```
+![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif)
+```
 
 ![Surfer Boy](https://media.giphy.com/media/dJUtqIcqeyMvK/giphy.gif)
 
@@ -64,13 +70,17 @@ To link an image, you just need to embed the image syntax within the syntax for 
 
 Here's a regular link:
 
-`[WAML Conference 2020](http://www.waml.org/conf)`
+```
+[WAML Conference 2020](http://www.waml.org/conf)
+```
 
 [WAML Conference 2020](http://www.waml.org/conf)
 
 Here's a linked image:
 
-`[![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf)`
+```
+[![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf)
+```
 
 [![WAML Logo](http://www.waml.org/groundwork-master/images/wamllogo200_15.jpg)](http://www.waml.org/conf)
 
@@ -84,7 +94,9 @@ ____
 
 You can also add html directly to Markdown. Say you wanted to change the size of an image, for example.
 
-`<img src='../img/WAML_sticker_stylized_serif.png' width='250' alt='WAML sticker'>`
+```
+<img src='../img/WAML_sticker_stylized_serif.png' width='250' alt='WAML sticker'>
+```
 
 <img src='../img/WAML_sticker_stylized_serif.png' width='250' alt='WAML sticker'>
 
